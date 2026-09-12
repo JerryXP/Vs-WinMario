@@ -1,0 +1,228 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "YOU BI-",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "talk",
+			"text": "BZZT~",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.015,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "talk",
+			"text": "[WARNING POWER OVERLOAD]\r\n",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh no...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "talk",
+			"text": "My Power is getting worse...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.055,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "talk",
+			"text": "Let me turn these options off for improvement.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "talk",
+			"text": "{crash Linux 64bit::false}",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "talk",
+			"text": "{change the skins::false}",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "talk",
+			"text": "{speak normal::0}",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "talk",
+			"text": "7H3R3 MUCH B3773R.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "loathing",
+			"text": "Oh my goodness.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "WH@7’$ WR0NG?_",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "loathing",
+			"text": "Corrupted Vocals bother me.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "BU7 1 W@N7 T0 S@V3 MY M3M0RY!_",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "submission",
+			"text": "Wow. If I were you, I would start deleting files that are unused.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "boredom",
+			"text": "Because maybe that's why your Storage is full.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "0H 0K F1N3, SHU7 7H3 H3// UP",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "talk",
+			"text": "W3LP T1M3 T0 D3L3T3 7H3 P/UG1N$\r\n",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "talk",
+			"text": "[WARNING PLUGINS IS DELETE]",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "talk",
+			"text": "{SYSTEM WILL BE DELETED IN 2 MINUTES AND 30 SECONDS]",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "talk",
+			"text": "N00000",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "talk",
+			"text": "1 @M S0RRY MY D3@R3$7 F@7H3R",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "anger",
+			"text": "UGH, YOU ARE SO ANNOYING!!\r\n",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.04,
+			"portrait": "win"
+		},
+		{
+			"expression": "anger",
+			"text": "YOUR GIVING ME HEADACHE!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.04,
+			"portrait": "win"
+		},
+		{
+			"expression": "anger",
+			"text": "ALL I NEED TO GET TO MR. GLITCH!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.04,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "MY F@7H3R?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "rage",
+			"text": "HE IS YOU FATHE-",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.035,
+			"portrait": "win"
+		},
+		{
+			"expression": "anger",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.11,
+			"portrait": "win"
+		}
+	]
+}
