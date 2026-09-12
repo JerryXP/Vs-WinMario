@@ -4,18 +4,14 @@
     <img src="assets/shared/images/logo.png" alt="Logo" width="500" height="500">
 </a>
 
-Welcome to Vs. WinMario!
+## Welcome to Vs. WinMario!
 
-=====================================================
--☆- What's this about? -☆-
-=====================================================
+### -☆- What's this about? -☆-
 This is a FNF Mod About, WinMario & other characters, and they are teaming up against BF, GF, Pico, and other FNF Characters. (well... kind of..) But it's not just that... It is about the battle of rescuing somebody and stopping the Evil and the name of... Mr. Glitch.
 
 But WM/LXP, The Developer likes you to view this page and Download the mods, or even watch the previews!
 
-=====================================================
--☆- New Addons! for Vs. WinMario -☆-
-=====================================================
+### -☆- New Addons! for Vs. WinMario -☆-
 Deluxe Pack! -->  This is a Special Addon if you want more cool shit.
 
 Cold Pack! -->  This is a Special Addon if you want more cool shit.
@@ -32,9 +28,7 @@ Pico Version --> In the alternate universe... well... Instead of BF & GF breaks 
 
 GF Version --> GF was having dream about where BF have went on a Vacation with his Family and he won't be back until New Years. And after that. GF felt alone so she went everywhere to fight someone with singing skills but she stands upon to WinMario, and for odd reason, WinMario didn't hesitate and does it anyway. But remember... It was just a DREAM. and yes it's also took place after Week 16 but it might be possibly Canon because of her dream while she was asleep. There is no dialogue or cutscene for this because I am lazy. and I got better stuff to do. so... use your imagination about what is going on
 
-=====================================================
--☆- Q&A -☆-
-=====================================================
+### -☆- Q&A -☆-
 1. Can you port this to V-Slice/Base Game?
 Nah it's Hell for me. 
 Ok Look, It's too hard for me to make mods for V-Slice, & I tried making mods for V-Slice 3 times but all of them failed, and You have to change the API Version of a FNF Version, like I am not doing this. And worst, it has no Lua Support, Yes, I know about Haxe, but I am a newbie to making Mods for V-Slice & it needs to be .hxc to make scripts, like I am not doing this, You may try to port this whatever I care, but I am doing this.
@@ -99,9 +93,7 @@ Originally, Github locked my own account, but right now, they finally let me in,
 20. Uhh... I just beat the game, and when I install the New Version, The process is gone... What happen???
 That's because you use the Versions Under 2.5, where I have to switch to the different Engine on V2.75. So, yeah. Sorry that you have lost all your progress when switching the New Engine.
 
-=====================================================
--☆- Read the Warnings. -☆-
-=====================================================
+### -☆- Read the Warnings. -☆-
 Please don't get confused with Other Super Mario Mods, Because of the title.
 
 If MacOS user reading this, If the Game is refused to open due to "Apple's Strict Secruity" then please go to -> https://github.com/ShadowMario/FNF-PsychEngine/issues/15792 for Help.
@@ -115,6 +107,4 @@ Yes. Vs. WinMario is indeed a FNF Cover Song, but at least I credited "almost" E
 
 The Reason why it loads for very long time on the Gamebanana Page for Vs. WinMario is because of credits. But for the last time, I credited ALMOST everyone, so I appreciate for your wait, or Find alternatives like Game Jolt for faster loading. (My mod will get trashed If I don't credit everyone on this Gamebanana Site. ;( )
 
-=====================================================
- -☆- ENJOY THE GAME!!! -☆-
-=====================================================
+## -☆- ENJOY THE GAME!!! -☆-
