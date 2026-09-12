@@ -6,16 +6,12 @@
 
 Welcome to Vs. WinMario!
 
-=====================================================
 -☆- What's this about? -☆-
-=====================================================
 This is a FNF Mod About, WinMario & other characters, and they are teaming up against BF, GF, Pico, and other FNF Characters. (well... kind of..) But it's not just that... It is about the battle of rescuing somebody and stopping the Evil and the name of... Mr. Glitch.
 
 But WM/LXP, The Developer likes you to view this page and Download the mods, or even watch the previews!
 
-=====================================================
 -☆- New Addons! for Vs. WinMario -☆-
-=====================================================
 Deluxe Pack! -->  This is a Special Addon if you want more cool shit.
 
 Cold Pack! -->  This is a Special Addon if you want more cool shit.
