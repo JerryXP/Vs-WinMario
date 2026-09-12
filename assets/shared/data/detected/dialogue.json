@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "annyance",
+			"text": "So you think you are trying to save him?",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "anger",
+			"text": "Yes I do, from you, and I want to kill you!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "submission",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "boredom",
+			"text": "Ok, fine, here is the deal, If you win...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "submission",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "vigilance",
+			"text": "You know what, it doesn't matter, let's do this.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "trust",
+			"text": "(Don't worry, I will send the message to you!)",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "rage",
+			"text": "WHAT?!?!? HOW?!?!?!?",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.04,
+			"portrait": "mace"
+		},
+		{
+			"expression": "interest",
+			"text": "I don't know, guess i'm good then",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "annyance",
+			"text": "Well I hope you do not choose practice mode nor botplay",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "boredom",
+			"text": "I did not.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "loathing",
+			"text": "Fine. I will give you freedom for 5 minutes.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "rage",
+			"text": "WHAT?!?!?!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "macn"
+		},
+		{
+			"expression": "annyance",
+			"text": "Take it or leave it.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "loathing",
+			"text": "...Fine.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "apprehension",
+			"text": "I need to figure out how to get rid of him",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "optimism",
+			"text": "...You know I had a great idea.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "He opens the portal and finds Windows Mario and dragged him",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		}
+	]
+}

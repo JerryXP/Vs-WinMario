@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:1a73da4186726af8100129b37086b0ae:17c7a81ff681fe8be91de2a676df9505:456b5fba9b40b44e518da1f89c3b1c66$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="deathmatch-stage.png" width="3840" height="1050">
+    <SubTexture name="deathmatch0001.png" x="0" y="0" width="640" height="350"/>
+    <SubTexture name="deathmatch0002.png" x="640" y="0" width="640" height="350"/>
+    <SubTexture name="deathmatch0003.png" x="1280" y="0" width="640" height="350"/>
+    <SubTexture name="deathmatch0004.png" x="1920" y="0" width="640" height="350"/>
+    <SubTexture name="deathmatch0005.png" x="2560" y="0" width="640" height="350"/>
+    <SubTexture name="deathmatch0006.png" x="3200" y="0" width="640" height="350"/>
+    <SubTexture name="deathmatch0007.png" x="0" y="350" width="640" height="350"/>
+    <SubTexture name="deathmatch0008.png" x="640" y="350" width="640" height="350"/>
+    <SubTexture name="deathmatch0009.png" x="1280" y="350" width="640" height="350"/>
+    <SubTexture name="deathmatch0010.png" x="1920" y="350" width="640" height="350"/>
+    <SubTexture name="deathmatch0011.png" x="2560" y="350" width="640" height="350"/>
+    <SubTexture name="deathmatch0012.png" x="3200" y="350" width="640" height="350"/>
+    <SubTexture name="deathmatch0013.png" x="0" y="700" width="640" height="350"/>
+    <SubTexture name="deathmatch0014.png" x="640" y="700" width="640" height="350"/>
+    <SubTexture name="deathmatch0015.png" x="1280" y="700" width="640" height="350"/>
+    <SubTexture name="deathmatch0016.png" x="1920" y="700" width="640" height="350"/>
+    <SubTexture name="deathmatch0017.png" x="2560" y="700" width="640" height="350"/>
+</TextureAtlas>

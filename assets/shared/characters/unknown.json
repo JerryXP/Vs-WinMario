@@ -1,0 +1,23 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "sbeve",
+			"indices": [],
+			"name": "GF IS FUCKIN GONE"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Unknown",
+	"position": [0, 0],
+	"healthicon": "gone",
+	"flip_x": false,
+	"healthbar_colors": [0, 0, 0],
+	"camera_position": [0, 0],
+	"sing_duration": 0,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

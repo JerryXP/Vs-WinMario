@@ -1,0 +1,50 @@
+{
+	"storyName": "Vs. PxJx/Paxton",
+	"difficulties": "Hard, Insane",
+	"hideFreeplay": false,
+	"weekBackground": "win3s",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "special_2",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Carefree",
+			"px-free",
+			[
+				128,
+				0,
+				255
+			]
+		],
+		[
+			"Win-High",
+			"px-free",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Boogie",
+			"px-free",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 11",
+	"hiddenUntilUnlocked": false
+}

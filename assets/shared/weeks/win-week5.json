@@ -1,0 +1,36 @@
+{
+	"storyName": "Merry Christmas",
+	"difficulties": "Easy, Normal, Hard, Insane",
+	"hideFreeplay": false,
+	"weekBackground": "win5",
+	"weekBefore": "win-week4",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Feliz",
+			"windows-christmas-free",
+			[
+				0,
+				128,
+				0
+			]
+		],
+		[
+			"Win-Eggnog",
+			"windows-christmas-free",
+			[
+				128,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 5"
+}

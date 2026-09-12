@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 0.7,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				169,
+				286
+			],
+			"idle_offsets": [
+				169,
+				286
+			],
+			"loop_name": "MONSTER LOOP",
+			"idle_name": "MONSTER0"
+		}
+	],
+	"image": "MONSTER_Dialogue"
+}

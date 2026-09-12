@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"expression": "boredom",
+			"text": "Well good job...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "loathing",
+			"text": "...You beat me, so now..",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "annyance",
+			"text": "..Time to die",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "annyance",
+			"text": "Well I am not letting my evil self win and people hating me forever!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "submission",
+			"text": "Hmm...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "vigilance",
+			"text": "Ok, Here is the deal, I will give you a chance.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "vigilance",
+			"text": "If you win, then you can move freely for 5 Minutes",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "anger",
+			"text": "And If I Won, You will never come out, ever again.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "annyance",
+			"text": "But I still remember that you are trying to regain control of your body when fighting that Dumb Windows Dude.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "annyance",
+			"text": "Yes to make you go away, and let him win and free!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "annyance",
+			"text": "You know what enough talking, let's go.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "vigilance",
+			"text": "I will warn you, this song is not easy.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "anticipation",
+			"text": "What do you mean by that?",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "vigilance",
+			"text": "You will see..",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "anticipation",
+			"text": "Ok..?",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		}
+	]
+}

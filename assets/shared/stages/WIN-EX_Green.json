@@ -1,0 +1,185 @@
+{
+	"camera_boyfriend": [
+		-105,
+		-50
+	],
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"gf": "nene",
+		"dad": "WINDOWS"
+	},
+	"preload": {
+		"images/stage_light": 2,
+		"images/stagecurtains": 2,
+		"images/stagefront": 3,
+		"images/stageback": 3
+	},
+	"girlfriend": [
+		440,
+		230
+	],
+	"stageUI": "",
+	"boyfriend": [
+		1055,
+		210
+	],
+	"objects": [
+		{
+			"x": -490,
+			"y": -229,
+			"scale": [
+				0.65,
+				0.65
+			],
+			"image": "WIN experect - pico/sky",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sky",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -509,
+			"y": 14,
+			"scale": [
+				1.5,
+				1.25
+			],
+			"image": "WIN experect/city",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "city",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -499,
+			"y": 24,
+			"scale": [
+				1.5,
+				1.25
+			],
+			"image": "WIN experect/window",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "window",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -414,
+			"y": 219,
+			"scale": [
+				1.5,
+				1
+			],
+			"image": "WIN experect - pico/behindTrain",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "behindTrain",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 2112,
+			"y": 470,
+			"scale": [
+				1,
+				1
+			],
+			"image": "WIN experect - pico/train",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "train",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -420,
+			"y": 229,
+			"scale": [
+				1.5,
+				1
+			],
+			"image": "WIN experect - pico/street",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "street",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		50
+	],
+	"defaultZoom": 0.75,
+	"camera_speed": 1.5,
+	"directory": "week3",
+	"opponent": [
+		70,
+		215
+	],
+	"camera_opponent": [
+		-50,
+		-50
+	],
+	"hide_girlfriend": false
+}

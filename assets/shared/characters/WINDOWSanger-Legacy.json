@@ -1,0 +1,146 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				36,
+				95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				65,
+				98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				76,
+				78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				64,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				81,
+				97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Missleft"
+		},
+		{
+			"offsets": [
+				79,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Meltdown"
+		},
+		{
+			"offsets": [
+				80,
+				91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Rage"
+		},
+		{
+			"offsets": [
+				104,
+				84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Coolanger"
+		},
+		{
+			"offsets": [
+				94,
+				99
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "Scared"
+		},
+		{
+			"offsets": [
+				210,
+				-54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "V Pose"
+		},
+		{
+			"offsets": [
+				100,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/WindowsMarioANGER",
+	"position": [
+		-20,
+		360
+	],
+	"healthicon": "windows-angry-legacy",
+	"flip_x": false,
+	"healthbar_colors": [
+		128,
+		0,
+		0
+	],
+	"camera_position": [
+		170,
+		-30
+	],
+	"sing_duration": 8,
+	"scale": 0.7,
+	"_editor_isPlayer": true
+}

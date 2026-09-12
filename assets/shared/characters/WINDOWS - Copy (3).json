@@ -1,0 +1,151 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [263, 325],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [265, 343],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [266, 326],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Missleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [266, 344],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Crydown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [264, 344],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "upset",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [281, 306],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Uncool",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [265, 327],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Hey",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [265, 327],
+			"anim": "scared",
+			"fps": 15,
+			"name": "Scared",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [266, 326],
+			"anim": "hurt",
+			"fps": 25,
+			"name": "Hurt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [266, 325],
+			"anim": "dodge",
+			"fps": 45,
+			"name": "Dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [266, 326],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [278, 306],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [265, 325],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [267, 324],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Left-Alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [266, 325],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Down-Alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [266, 343],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Up-Alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [280, 307],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Right-Alt0",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/WINDOWS - Copy/WinMarioEvil-v2.5",
+	"position": [-20, 360],
+	"healthicon": "windows-glitch",
+	"flip_x": false,
+	"healthbar_colors": [75, 0, 75],
+	"camera_position": [10, -160],
+	"sing_duration": 8,
+	"scale": 0.65,
+	"_editor_isPlayer": false
+}

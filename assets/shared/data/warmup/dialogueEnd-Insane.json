@@ -1,0 +1,45 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "awe",
+			"text": "Holy Cow!! You choose Insane Difficulty... Looks like you fear nothing!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "serenity",
+			"text": "Ok!! Since you choose that Difficulty, I must warn you, this does contain Crazy Charts inside Insane Difficulty"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "ecstasy",
+			"text": "Hope you like the Troll I add to the end, And yes A LOT of Insane Charts are made or edit by me, Just a Hard Charts..."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "joy",
+			"text": "But made them more Harder!!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "joy",
+			"text": "Ok! See ya Later!!"
+		}
+	]
+}

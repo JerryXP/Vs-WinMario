@@ -1,0 +1,165 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "submission",
+			"text": "..."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "interest",
+			"text": "Wow..."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "interest",
+			"text": "...what a crazy party we have~"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "anticipation",
+			"text": "But, I still don't know why it kept on  happening... The portal appears multiple times."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "anticipation",
+			"text": "And everytime when I try to run away... I get suck in to it."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "vigilance",
+			"text": "Besides... there is a 99% chance I am put into a dangerous situations... and 1% chance I am in a safe areas..."
+		},
+		{
+			"sound": "win",
+			"speed": 0.055,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "submission",
+			"text": "yea... something isn't right here..."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "submission",
+			"text": "I need to ask someone why is it doing this."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Few Minutes Later..."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "boredom",
+			"text": ""
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "serenity",
+			"text": "Woah! I remember this place!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.06,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "amazement 2",
+			"text": "This is where I escaped from the Corrupted World, and see MacOS Wario for the last time!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.045,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "optimism",
+			"text": "Wait! I got an idea! I should ask MacOS Wario what is happening!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "interest",
+			"text": "But hold on... MacOS Wario is in the Parallel Universe... So I need to figure out how to get over here..."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "remorse",
+			"text": "Oh No... I really need to see MacOS Wario-"
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello it's a me, Mario!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello Mario, do you have any way how to get to the parallel universe?"
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hmm... I think you might need a launch star so you can get to the Parallel Universe, but I have it, so you can use it."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "joy",
+			"text": "thank you mario"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And then the launch star shoots WinMario into a Parallel Universe."
+		}
+	]
+}

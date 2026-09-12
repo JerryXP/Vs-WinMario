@@ -1,0 +1,109 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "annyance",
+			"text": "Finally, his ego-ass is gone! I don't have to deal with his sh!t no more."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "joy",
+			"text": "But hey! at least... it did not get wrose than this!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "anticipation",
+			"text": "but anyways... How do I get back home?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(It was all normal until the glitch is getting worse.)"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "angry",
+			"expression": "apprehension",
+			"text": "Wait... What is happening?!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.035,
+			"portrait": "win",
+			"boxState": "angry",
+			"expression": "fear",
+			"text": "OH CRAP!! THE GLITCH IS GETTING WORSE!! IT MEANS IF I DON'T GET THE HELL OUT OF HERE, I WILL BE DELETED FOREVER!!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.035,
+			"portrait": "win",
+			"boxState": "angry",
+			"expression": "fear",
+			"text": "I NEED TO LOOK FOR THE EXIT!!!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.035,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "fear",
+			"text": "OH HELL, OH HELL, OH HELL, OH HEEEEEELLLLL NOOOOOOOO!!!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.035,
+			"portrait": "win",
+			"boxState": "angry",
+			"expression": "fear",
+			"text": "WAIT!!! I CAN SEE THE PORTAL IN FRONT OF ME!!! LET'S GET OUT FROM THIS HELLHOLE!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He has escaped and made it on the XP Hill"
+		},
+		{
+			"sound": "win",
+			"speed": 0.07,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "sadness",
+			"text": "Finally... I am free... I will NEVER GO BACK HERE... EVER AGAIN..."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "acceptance",
+			"text": "Ugh... you know what? Instead of going back home, I will just visit Neon City."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And this is exactly where does he went. Congrats! You unlock Week 3!!"
+		}
+	]
+}

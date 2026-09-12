@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "terror",
+			"text": "Oh my... What's going on? Where Am I?!?!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "H1",
+			"boxState": "normal",
+			"portrait": "bf99",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "What the? Who are you, and why do you look like me?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Y0URS3LF",
+			"boxState": "normal",
+			"portrait": "bf99",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "he-mad-ohno-3",
+			"text": "Ha Ha, Very Funny, Now take me back!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "C'M0N, 1F Y0U W1N TH3N L3@VE, L0$$, D1E!",
+			"boxState": "normal",
+			"portrait": "bf99",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "he-mad-ohno-2",
+			"text": "Ugh... fine. >:/",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		}
+	]
+}

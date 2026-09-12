@@ -1,0 +1,51 @@
+{
+	"storyName": "WinMario vs. Mario",
+	"difficulties": "Hard, Insane",
+	"hideFreeplay": false,
+	"weekBackground": "win4s",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "special_3",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Lo-Fight",
+			"mario-free",
+			[
+				192,
+				0,
+				0
+			]
+		],
+		[
+			"Godrays",
+			"mario-free",
+			[
+				192,
+				0,
+				0
+			]
+		],
+		[
+			"Double Kill",
+			"mario-and-luigi",
+			[
+				192,
+				192,
+				0
+			]
+		]
+		
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 12",
+	"hiddenUntilUnlocked": false
+}

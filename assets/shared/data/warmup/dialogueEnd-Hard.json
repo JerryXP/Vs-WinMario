@@ -1,0 +1,37 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "optimism",
+			"text": "Wow! You did great!!!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "contempt",
+			"text": "Despite it is from Dave & Bambi"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "serenity",
+			"text": "But hey! I see you choose the Hard Difficulty! It looks like you're prepared for the Other stuff you're going to see!!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.04,
+			"portrait": "win",
+			"boxState": "angry",
+			"expression": "joy",
+			"text": "Let's Go!!"
+		}
+	]
+}

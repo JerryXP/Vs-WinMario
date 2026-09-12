@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Nice!",
+			"boxState": "normal",
+			"portrait": "px",
+			"speed": 0.05,
+			"sound": "px"
+		},
+		{
+			"expression": "talk",
+			"text": "Okay, Last Song because I need to spend time with my family.",
+			"boxState": "normal",
+			"portrait": "px",
+			"speed": 0.05,
+			"sound": "px"
+		},
+		{
+			"expression": "optimism",
+			"text": "Okay",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		}
+	]
+}

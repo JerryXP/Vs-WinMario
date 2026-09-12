@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_BROKEN_Dialogue.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="BF_BROKEN0000" x="0" y="0" width="815" height="807" frameX="-92" frameY="-90" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="BF_BROKEN0001" x="0" y="0" width="815" height="807" frameX="-92" frameY="-90" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="BF_BROKEN0002" x="0" y="0" width="815" height="807" frameX="-92" frameY="-90" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="BF_BROKEN0003" x="0" y="0" width="815" height="807" frameX="-92" frameY="-90" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="BF_BROKEN0004" x="0" y="0" width="815" height="807" frameX="-92" frameY="-90" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="BF_BROKEN LOOP0000" x="0" y="0" width="815" height="807" frameX="-92" frameY="-90" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="BF_BROKEN LOOP0001" x="0" y="0" width="815" height="807" frameX="-92" frameY="-90" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="BF_BROKEN LOOP0002" x="0" y="0" width="815" height="807" frameX="-92" frameY="-90" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="BF_BROKEN LOOP0003" x="0" y="0" width="815" height="807" frameX="-92" frameY="-90" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="BF_BROKEN LOOP0004" x="0" y="0" width="815" height="807" frameX="-92" frameY="-90" frameWidth="1000" frameHeight="1000"/>
+</TextureAtlas>

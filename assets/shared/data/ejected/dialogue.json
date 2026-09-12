@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "anger",
+			"text": "y0u p13(3 0f $h17!!!!!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "annyance",
+			"text": "SPEAK ENGLISH, or ARE YOU BROKEN?!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.04,
+			"portrait": "win"
+		},
+		{
+			"expression": "rage",
+			"text": "01001001 00100000 01000001 01001101 00100000 01010011 01010000 01000101 01000001 01001011 01001001 01001110 01000111 00100000 01000101 01001110 01000111 01001100 01001001 01010011 01001000 00100000 01011001 01001111 01010101 00100000 01001101 01001111 01010100 01001000 01000101 01010010 01000110 01010101 01000011 01001011 01000101 01010010 00100001 00100001 00100001",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.00500000000000001,
+			"portrait": "mace"
+		},
+		{
+			"expression": "rage",
+			"text": "translate: I AM SPEAKING ENGLISH YOU MOTHER******!!!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "talk",
+			"text": "Yes, Am Sorry I do not speak Binary Ok.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "annyance",
+			"text": "Y0U'R3 M@K1NG M3 @NGRY... F1N@L R0UND.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.075,
+			"portrait": "mace"
+		},
+		{
+			"expression": "anticipation",
+			"text": "...Sure?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.13,
+			"portrait": "win"
+		}
+	]
+}

@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [266, 333],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [221, 283],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [280, 336],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [308, 334],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Missleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [267, 304],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Crydown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [282, 332],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "upset",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [253, 310],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Uncool",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [267, 334],
+			"anim": "hey",
+			"fps": 24,
+			"name": "V Pose",
+			"indices": []
+		},
+		{
+			"offsets": [249, 309],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [255, 312],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Left"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/WINDOWS - Copy/WinMario_NEW - Copy",
+	"position": [-20, 360],
+	"healthicon": "windows-glitch-old",
+	"flip_x": false,
+	"healthbar_colors": [50, 0, 50],
+	"camera_position": [10, -160],
+	"sing_duration": 8,
+	"scale": 0.7,
+	"_editor_isPlayer": false
+}

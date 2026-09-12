@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "Ok babe, what are we doing here?",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, I just found another stage, so I was curious to see it.",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "interest",
+			"text": "Hello, and what are you doing trespassing my property?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, we are here because BF wants to rap battle with you!",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "What?",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "demon",
+			"text": "Shut up.",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "oops1",
+			"text": "Okay.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "anticipation",
+			"text": "...Okay, well, do you want to do it?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "excited",
+			"text": "Yea, sure!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "optimism",
+			"text": "Let's go!!!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		}
+	]
+}

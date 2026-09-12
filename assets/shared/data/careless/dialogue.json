@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "optimism",
+			"text": "Ok let's...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "apprehension",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "apprehension",
+			"text": "Oh no... (huffing and puffing)",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.045,
+			"portrait": "macn"
+		},
+		{
+			"expression": "apprehension",
+			"text": "What... What is wrong? What Happened?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.045,
+			"portrait": "win"
+		},
+		{
+			"expression": "apprehension",
+			"text": "Well I am having an Anxiety Attack!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.04,
+			"portrait": "macn"
+		},
+		{
+			"expression": "apprehension",
+			"text": "Wait, what do you mean? How did you get that?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.045,
+			"portrait": "win"
+		},
+		{
+			"expression": "fear",
+			"text": "I got that after I got captured by Mr. Glitch and Corruped by him!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "macn"
+		},
+		{
+			"expression": "fear",
+			"text": "And worst of all, IT IS STILL IN MY HEAD! AND I CAN'T FORGET THAT!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.03,
+			"portrait": "macn"
+		},
+		{
+			"expression": "remorse",
+			"text": "Oh No...",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.06,
+			"portrait": "win"
+		},
+		{
+			"expression": "remorse",
+			"text": "Let's sing until it gets that thing out of your head.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.045,
+			"portrait": "win"
+		},
+		{
+			"expression": "trust",
+			"text": "Ok...",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.07,
+			"portrait": "macn"
+		}
+	]
+}

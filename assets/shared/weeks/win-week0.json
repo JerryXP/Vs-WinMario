@@ -1,0 +1,32 @@
+{
+	"storyName": "Let's Test Your Skills!! from Dave & Bambi ofc",
+	"difficulties": "Easy, Normal, Hard, Insane",
+	"hideFreeplay": true,
+	"weekBackground": "win0",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Warmup",
+			"windows-free",
+			[
+				128,
+				0,
+				128
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 0",
+	"hiddenUntilUnlocked": false
+}

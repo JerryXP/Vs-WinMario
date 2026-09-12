@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "anticipation",
+			"text": "What in the world am I back here again?!?!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "rage",
+			"text": "WHAT?! YOU AGAIN?!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.035,
+			"portrait": "win"
+		},
+		{
+			"expression": "fear",
+			"text": "Look, I know but I don't have a lot of time",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "fear",
+			"text": "But I am trapped and tortured by my Evil clone.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "loathing",
+			"text": "...Wow I didn't know you're trapped",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "annyance",
+			"text": "But I am still mad that you kidnapped me...",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "boredom",
+			"text": "...But fine, let's do this.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		}
+	]
+}

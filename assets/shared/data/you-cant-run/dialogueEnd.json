@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "aggressivenes",
+			"text": "Why what a pathetic loser!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "annyance",
+			"text": "I am Never Seeing Him Forever!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Portal appears*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "interest",
+			"text": "Another Black Portal?\r\n",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "anticipation",
+			"text": "I don't think it takes me home-",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "The Hand Grabbed Him from the Portal",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "contempt",
+			"text": "Oh great.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "fear",
+			"text": "EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.035,
+			"portrait": "win"
+		},
+		{
+			"expression": "fear",
+			"text": "AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH-",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.03,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		}
+	]
+}

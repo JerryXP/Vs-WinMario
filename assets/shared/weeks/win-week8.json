@@ -1,0 +1,36 @@
+{
+	"storyName": "You Did It!",
+	"difficulties": "Hard, Insane",
+	"hideFreeplay": false,
+	"weekBackground": "win8",
+	"weekBefore": "win-week7",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Sunsets",
+			"apple-og-free",
+			[
+				64,
+				64,
+				64
+			]
+		],
+		[
+			"Galactic",
+			"apple-og-free",
+			[
+				64,
+				64,
+				64
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Week 8",
+	"hiddenUntilUnlocked": true
+}

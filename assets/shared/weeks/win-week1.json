@@ -1,0 +1,50 @@
+{
+	"storyName": "VS. WINMARIO",
+	"difficulties": "Easy, Normal, Hard, Insane",
+	"hideFreeplay": false,
+	"weekBackground": "win1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Win-Opheebop",
+			"windows-free",
+			[
+				128,
+				0,
+				128
+			]
+		],
+		[
+			"RAM",
+			"windows-free",
+			[
+				128,
+				0,
+				128
+			]
+		],
+		[
+			"Cob",
+			"windows-free",
+			[
+				128,
+				0,
+				128
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1",
+	"hiddenUntilUnlocked": false
+}

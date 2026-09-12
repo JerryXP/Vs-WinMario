@@ -1,0 +1,32 @@
+{
+	"storyName": "Before Week 14",
+	"difficulties": "Normal",
+	"hideFreeplay": true,
+	"weekBackground": "story",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "special_5",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"pre-week-14",
+			"face",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Pre-Week 14",
+	"hiddenUntilUnlocked": true
+}

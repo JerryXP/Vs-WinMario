@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Well that was a short song.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "excited",
+			"text": "Yep, see you later!",
+			"boxState": "normal",
+			"sound": "px",
+			"speed": 0.05,
+			"portrait": "px"
+		},
+		{
+			"expression": "joy",
+			"text": "You Too!!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "She Left.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "anticipation",
+			"text": "Ok, I need to figure out what is going on...",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "boredom",
+			"text": "But now, I need to know how to get home.",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "The...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.085,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "Green Pipe shows up?? (WHAT?)",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "interest",
+			"text": "Huh? A Green Pipe is outside?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "interest",
+			"text": "Okay, I will go outside and then enter the pipe, I guess.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "WinMario went outside and entered the pipe.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "Congrats! You unlock Week 12!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		}
+	]
+}

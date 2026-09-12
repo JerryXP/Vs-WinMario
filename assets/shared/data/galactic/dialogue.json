@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "optimism",
+			"text": "Wow, that was beautiful!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Yep, but let's do the final song because I had to go back to my universe",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "interest",
+			"text": "What Universe?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "trust",
+			"text": "Please don't make jokes but, i'm going back to The Parallel Universe",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "anticipation",
+			"text": "Oh, so that's why your name is MacOS Wario/Waluigi X",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "pensiveness",
+			"text": "Yes, because that's your positive name and mine is negative name",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "joy",
+			"text": "Oh, Ok!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "interest",
+			"text": "So yea, are you ready for the last song?",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "joy",
+			"text": "Yea!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "joy",
+			"text": "Let's Go!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		}
+	]
+}

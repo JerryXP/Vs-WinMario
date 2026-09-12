@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah sh*t. Where am I?"
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico99",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "G00D 3V3N1NG @ND G00D N1GHT P1(0..."
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Holy F*ck. Well there is only one option to kill him."
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico99",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "@ND WH@T 1S TH@T, 1F 1T'S @ GUN, TH3N Y0U KN0W 1 H@V3 0N3 T00, R1GHT?"
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I can see that, Dumb*ss."
+		}
+	]
+}

@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "So, after the 'Incident' WM/LXP had to travel to other places, so he went to Neon City, & he ran to somebody that he already met.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "optimism",
+			"text": "Oh Wow, there is no way we met again!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "hit",
+			"text": "BEEP?!?!?!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "oops2",
+			"text": "(coughing)",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Woah, that's crazy!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "What the hell was that?",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "I don't know.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "interest",
+			"text": "Weird, so yea do you want to do it again?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "confused",
+			"text": "What again?",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Babe, you're the most stupidest person i've ever met...",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "demon",
+			"text": "HE MEANT, HE WANTS TO SING WITH YOU.",
+			"boxState": "angry",
+			"sound": "gf",
+			"speed": 0.03,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Oh, then sure!!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "anticipation",
+			"text": "(What da heck is wrong with him?)",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		}
+	]
+}

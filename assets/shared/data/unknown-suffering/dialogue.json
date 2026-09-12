@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "apprehension",
+			"text": "Oh Wow, I can’t believe I just witnessed..",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "anticipation",
+			"text": "Wait.. this place.. I remembered this place...",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "vigilance",
+			"text": "This is where Me and MacOS Wario was here!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "aggressivenes",
+			"text": "And now I am here inside this Purple Digital World.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "annyance",
+			"text": "Alright! Show yourself!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.04,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "B00",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win99"
+		},
+		{
+			"expression": "loathing",
+			"text": "Good Jumpscare, but wait, Why do you look like me though?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "1 D0N’T KN0W",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win99"
+		},
+		{
+			"expression": "anger",
+			"text": "Well, I don’t like it here, but I will defeat you, until justice is being served!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.04,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Null Object Reference",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.005,
+			"portrait": "win99"
+		},
+		{
+			"expression": "anticipation",
+			"text": "What the... What?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		}
+	]
+}

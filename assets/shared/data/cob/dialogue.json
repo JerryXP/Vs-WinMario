@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "God dang! You're really good at those covers!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "joy",
+			"text": "Yes, I am!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright, Last Song Before We Left?",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "optimism",
+			"text": "Sure!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		}
+	]
+}

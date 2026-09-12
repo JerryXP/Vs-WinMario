@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Great.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "joy",
+			"text": "Agreed",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "joy",
+			"text": "Final song.",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "confused",
+			"text": "What song?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "B-Side Eggnog (made by Rozebud)",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Go.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok.",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		}
+	]
+}

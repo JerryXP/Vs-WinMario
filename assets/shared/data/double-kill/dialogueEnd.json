@@ -1,0 +1,125 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Way to go!!",
+			"boxState": "normal",
+			"portrait": "mario",
+			"speed": 0.05,
+			"sound": "mario"
+		},
+		{
+			"expression": "joy",
+			"text": "Yay!!\r\n",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "anticipation",
+			"text": "Okay, can you make a Pipe to take me back home?",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Okay!",
+			"boxState": "normal",
+			"portrait": "mario",
+			"speed": 0.05,
+			"sound": "mario"
+		},
+		{
+			"expression": "talk",
+			"text": "(The pipe has grown.)",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "joy",
+			"text": "Alright, I will see you next time!",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "excited",
+			"text": "Okay! Bye Bye!",
+			"boxState": "normal",
+			"portrait": "mario",
+			"speed": 0.05,
+			"sound": "mario"
+		},
+		{
+			"expression": "talk",
+			"text": "(WinMario enters the pipe.)",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Hey Luigi!",
+			"boxState": "normal",
+			"portrait": "mario",
+			"speed": 0.05,
+			"sound": "mario"
+		},
+		{
+			"expression": "confused",
+			"text": "Yeah, Mario?",
+			"boxState": "normal",
+			"portrait": "luigi",
+			"speed": 0.05,
+			"sound": "luigi"
+		},
+		{
+			"expression": "excited",
+			"text": "Can we have Spaghetti?",
+			"boxState": "normal",
+			"portrait": "mario",
+			"speed": 0.05,
+			"sound": "mario"
+		},
+		{
+			"expression": "excited",
+			"text": "Okay, Mario!",
+			"boxState": "normal",
+			"portrait": "luigi",
+			"speed": 0.05,
+			"sound": "luigi"
+		},
+		{
+			"expression": "excited",
+			"text": "Yipee!",
+			"boxState": "normal",
+			"portrait": "mario",
+			"speed": 0.05,
+			"sound": "mario"
+		},
+		{
+			"expression": "talk",
+			"text": "And then Mario Bros. is eating spaghetti.",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Congrats! You Unlock Week 13!",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": ""
+		}
+	],
+	"style": ""
+}

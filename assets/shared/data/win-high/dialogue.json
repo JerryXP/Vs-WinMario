@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "I like the song!",
+			"boxState": "normal",
+			"portrait": "px",
+			"speed": 0.05,
+			"sound": "px"
+		},
+		{
+			"expression": "optimism",
+			"text": "I do too! (but I prefer UTAU)",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok, so what's next?",
+			"boxState": "normal",
+			"portrait": "px",
+			"speed": 0.05,
+			"sound": "px"
+		},
+		{
+			"expression": "boredom",
+			"text": "High.",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "confused",
+			"text": "???",
+			"boxState": "normal",
+			"portrait": "px",
+			"speed": 0.05,
+			"sound": "px"
+		},
+		{
+			"expression": "boredom",
+			"text": "Just High.",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "confused",
+			"text": "Okay, what version, Normal or-",
+			"boxState": "normal",
+			"portrait": "px",
+			"speed": 0.05,
+			"sound": "px"
+		},
+		{
+			"expression": "boredom",
+			"text": "Erect",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok.",
+			"boxState": "normal",
+			"portrait": "px",
+			"speed": 0.05,
+			"sound": "px"
+		}
+	]
+}

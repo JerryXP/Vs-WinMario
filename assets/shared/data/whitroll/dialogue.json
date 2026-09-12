@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "serenity",
+			"text": "Okay, cool!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "interest",
+			"text": "Yes it is, but one question for you.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "optimism",
+			"text": "Okay, go ahead!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "interest",
+			"text": "Why does the portal inside my stage appear so many times?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "awe",
+			"text": "Oh... uh...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.065,
+			"portrait": "macn"
+		},
+		{
+			"expression": "apprehension",
+			"text": "Oh no...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.065,
+			"portrait": "macn"
+		},
+		{
+			"expression": "apprehension",
+			"text": "What's wrong, is it bad?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "fear",
+			"text": "It is bad... REALLY bad...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.06,
+			"portrait": "macn"
+		},
+		{
+			"expression": "trust",
+			"text": "But you know what, let's save it, because we are having good time already.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "interest",
+			"text": "Oh.. uh.. Okay.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.06,
+			"portrait": "win"
+		},
+		{
+			"expression": "admiration",
+			"text": "Let's play nice relaxing music.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "interest",
+			"text": "Ok.. Sure!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.055,
+			"portrait": "win"
+		}
+	]
+}

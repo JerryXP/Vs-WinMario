@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [41, 0],
+			"loop": false,
+			"fps": 23,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [-13, 6],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY!!"
+		},
+		{
+			"offsets": [62, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE LEFT"
+		},
+		{
+			"offsets": [35, -31],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN"
+		},
+		{
+			"offsets": [82, 45],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP"
+		},
+		{
+			"offsets": [68, 1],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE RIGHT"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/ultimate bf moment",
+	"position": [0, 350],
+	"healthicon": "icon-CorruptedBF",
+	"flip_x": true,
+	"healthbar_colors": [255, 0, 255],
+	"camera_position": [40, -60],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

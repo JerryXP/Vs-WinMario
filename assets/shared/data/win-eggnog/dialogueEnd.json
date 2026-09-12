@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "Wow, That's It?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Is it really it?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "gf"
+		},
+		{
+			"expression": "joy",
+			"text": "Yes it is, now I will keep walking, and I wish you guys a Merry Christmas and Happy New Year!",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Thank You, You too",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "Yeah you too!",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "gf"
+		},
+		{
+			"expression": "optimism",
+			"text": "thx!",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Congrats! You unlock Week 6! /// // //help me!!\\\\",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

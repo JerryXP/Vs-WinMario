@@ -1,0 +1,324 @@
+{
+	"dialogue": [
+		{
+			"expression": "admiration",
+			"text": "Ok... I am okay now.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "trust",
+			"text": "Alright.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "anticipation",
+			"text": "So your question is why does the portal appear in your stage multiple times, right?",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "interest",
+			"text": "Yea, and you say it's bad. And I still  remember it right now.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "remorse",
+			"text": "It is Bad, because...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.06,
+			"portrait": "macn"
+		},
+		{
+			"expression": "remorse",
+			"text": "...Mr. Glitch wants to kill you.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.065,
+			"portrait": "macn"
+		},
+		{
+			"expression": "remorse",
+			"text": "He hates you very much that he is using portals to trap you in.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.055,
+			"portrait": "macn"
+		},
+		{
+			"expression": "aggressivenes",
+			"text": "Wow, now I know what's going on!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "rage",
+			"text": "and... If I get my hands on him I will FU-",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "*thud*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "awe",
+			"text": "What's that?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "anticipation",
+			"text": "Idk let's see.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": ".",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "vigilance",
+			"text": "Oh... The black portal.. I remember that Me and Mr. Glitch Met!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.065,
+			"portrait": "win"
+		},
+		{
+			"expression": "annyance",
+			"text": "Yes... Yes it is..",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.065,
+			"portrait": "macn"
+		},
+		{
+			"expression": "annyance",
+			"text": "Well It's time to-",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.065,
+			"portrait": "win"
+		},
+		{
+			"expression": "vigilance",
+			"text": "Wait...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "vigilance",
+			"text": "Take this.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "anticipation",
+			"text": "What? Why are you giving me a USB stick?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "vigilance",
+			"text": "It's not just a USB...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.055,
+			"portrait": "macn"
+		},
+		{
+			"expression": "vigilance",
+			"text": "...It's a Kill Stick.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.06,
+			"portrait": "macn"
+		},
+		{
+			"expression": "interest",
+			"text": "Ok, what do I do with this?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "anticipation",
+			"text": "Well... do you see his Laptop?",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "interest",
+			"text": "Yes?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "vigilance",
+			"text": "Well Himself and all stuff that he owns...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "submission",
+			"text": "Including his freakshow creations...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "vigilance",
+			"text": "It's stored all inside of the Laptop, you can't break it to pieces.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "vigilance",
+			"text": "But all Laptops have a USB connector, and his Laptop has one too.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "annyance",
+			"text": "So Plug the Killstick in and it will immediately break it and he will be gone permanently.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "aggressivenes",
+			"text": "Oh.. Ok then... >:)",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "annyance",
+			"text": "Mr. Glitch... Your Tyranny is about to be over right now..",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.06,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "optimism",
+			"text": "Hey guys!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "submission",
+			"text": "I want to tell you guys that...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "remorse",
+			"text": "Do Not Plug in the Killstick to your Computer or other people's Computer.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "remorse",
+			"text": "Because it can destroy the computer.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "boredom",
+			"text": "That's a warning I gave you.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "joy",
+			"text": "Okay Bye!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "You unlock Week 15...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "unknown"
+		}
+	]
+}

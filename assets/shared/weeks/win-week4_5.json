@@ -1,0 +1,32 @@
+{
+	"storyName": "",
+	"difficulties": "Easy, Normal, Hard, Insane",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "win-week4",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Cinnamon",
+			"icon-windows-spooky-free",
+			[
+				128,
+				0,
+				128
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

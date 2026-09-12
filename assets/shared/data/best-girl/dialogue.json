@@ -1,0 +1,308 @@
+{
+	"dialogue": [
+		{
+			"expression": "interest",
+			"text": "Oh My...",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "anticipation",
+			"text": "Wait...",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "awe",
+			"text": "Where am I?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "amazement 2",
+			"text": "And the stars look cool!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "excited",
+			"text": "I know right?",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "joy",
+			"text": "Oh hey BF & GF where did you guys come from?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "confused",
+			"text": "I don't know, but I want to say that",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "excited",
+			"text": "You are living in the house of the Animated Space",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "excited",
+			"text": "So you have a Purple Bedroom, Ruby Kitchen...",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "excited",
+			"text": "...Emerald Basement, and Blue Living Room.",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "And this is where you're at right now, a Blue Living Room.",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "joy",
+			"text": "Ayy!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "excited",
+			"text": "That's what I say!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "anticipation",
+			"text": "I am pretty sure this is expensive",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "It is.",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "awe",
+			"text": "Oh.\r",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "It's $4,000",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "awe",
+			"text": "What the-",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Yep and do you like my new speaker?",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "optimism",
+			"text": "Wow, I didn't notice!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "excited",
+			"text": "Yep my dad built that after I got it for Christmas.",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "serenity",
+			"text": "Wow, Ok!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "But hey, it's very nice to see you!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "But MacOS Wario told me to give this message to you",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "joy",
+			"text": "Okay!",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Dear WM/LXP, thank you for saving all of us, Mr. Glitch always ruined our lives",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": "mac"
+		},
+		{
+			"expression": "talk",
+			"text": "I heard that Mr. Glitch has been deleted forever & so do his creations! I knew you could do it!",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": "mac"
+		},
+		{
+			"expression": "talk",
+			"text": "We will never forget about this history. And hey! You should come over very soon!",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": "mac"
+		},
+		{
+			"expression": "talk",
+			"text": "Here is my phone number, Call Me!",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": "mac"
+		},
+		{
+			"expression": "talk",
+			"text": "Sincerely, MacOS Wario/Waluigi X",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": "mac"
+		},
+		{
+			"expression": "joy",
+			"text": "Oh, that's a very nice message!",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Yes it is, so what do you want to do?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "interest",
+			"text": "hmm...",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "interest",
+			"text": "Sing?",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "excited",
+			"text": "YES!!!!! XD",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.04,
+			"sound": "bf"
+		},
+		{
+			"expression": "joy",
+			"text": "Woah! Don't get too excited!",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "joy",
+			"text": "Anyways, Let's Get this show on the road!",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "excited",
+			"text": "Bring it on!",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.04,
+			"sound": "bf"
+		}
+	]
+}

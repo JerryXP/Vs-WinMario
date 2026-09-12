@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="99_Dialogue.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="1004" y="0" width="502" height="974" frameX="-249" frameY="-28" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="idle0001" x="1004" y="0" width="502" height="974" frameX="-249" frameY="-28" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="idle0002" x="1004" y="0" width="502" height="974" frameX="-249" frameY="-28" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="idle0003" x="1004" y="0" width="502" height="974" frameX="-249" frameY="-28" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="excited0000" x="1506" y="0" width="502" height="974" frameX="-249" frameY="-28" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="excited0001" x="1506" y="0" width="502" height="974" frameX="-249" frameY="-28" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="excited0002" x="1506" y="0" width="502" height="974" frameX="-249" frameY="-28" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="excited0003" x="1506" y="0" width="502" height="974" frameX="-249" frameY="-28" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="confused0000" x="502" y="0" width="502" height="974" frameX="-249" frameY="-28" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="confused0001" x="502" y="0" width="502" height="974" frameX="-249" frameY="-28" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="confused0002" x="502" y="0" width="502" height="974" frameX="-249" frameY="-28" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="confused0003" x="502" y="0" width="502" height="974" frameX="-249" frameY="-28" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="shocked0000" x="0" y="0" width="502" height="974" frameX="-249" frameY="-28" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="shocked0001" x="0" y="0" width="502" height="974" frameX="-249" frameY="-28" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="shocked0002" x="0" y="0" width="502" height="974" frameX="-249" frameY="-28" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="shocked0003" x="0" y="0" width="502" height="974" frameX="-249" frameY="-28" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="pissed0000" x="0" y="974" width="502" height="974" frameX="-249" frameY="-28" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="pissed0001" x="0" y="974" width="502" height="974" frameX="-249" frameY="-28" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="pissed0002" x="0" y="974" width="502" height="974" frameX="-249" frameY="-28" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="pissed0003" x="0" y="974" width="502" height="974" frameX="-249" frameY="-28" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="demon0000" x="2008" y="0" width="469" height="982" frameX="-267" frameY="-20" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="demon0001" x="2008" y="0" width="469" height="982" frameX="-267" frameY="-20" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="demon0002" x="2008" y="0" width="469" height="982" frameX="-267" frameY="-20" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="demon0003" x="2008" y="0" width="469" height="982" frameX="-267" frameY="-20" frameWidth="1000" frameHeight="1000"/>
+</TextureAtlas>

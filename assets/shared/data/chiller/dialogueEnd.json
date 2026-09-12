@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "fear",
+			"text": "Was he not joking?!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "remorse",
+			"text": "I think not, Now I have nightmares about him.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "pensiveness",
+			"text": "I can't believe it.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Few Days Later",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "trust",
+			"text": "I think the Nightmares are finally gone",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "joy",
+			"text": "But hey it’s November 1st! That Means Christmas Tree Setup Time!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Meanwhile",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "terror",
+			"text": "NOOOOOOOO!!!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.03,
+			"portrait": "bf"
+		},
+		{
+			"expression": "terror",
+			"text": "IT'S NOVEMBER",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "ok, what's wrong with that?",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "terror",
+			"text": "IT MEANS NO NUT NOVEMBER!!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Babe. grow up.",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.06,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "1 Month Later",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "Congrats, You Unlock Week 5!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		}
+	]
+}

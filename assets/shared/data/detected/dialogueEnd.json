@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "annyance",
+			"text": "Ok, so I beat you, so what is my prize-",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "rage",
+			"text": "THERE IS NO PRIZE, YOU WILL DIE!!!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.03,
+			"portrait": "mace"
+		},
+		{
+			"expression": "rage",
+			"text": "OH NO YOU DON'T.",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "macn"
+		},
+		{
+			"expression": "rage",
+			"text": "GAHH, WHAT THE HELL?!?!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "mace"
+		},
+		{
+			"expression": "fear",
+			"text": "Windows Mario, Don't leave because, you see the message?",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn",
+			"boxState": "normal",
+			"expression": "fear",
+			"text": "(DON'T LET HIM WIN, MR. GLITCH DID THIS.)"
+		},
+		{
+			"expression": "rage",
+			"text": "YES I DID, I CAN'T BELIEVE HE DID THIS!!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.035,
+			"portrait": "win"
+		},
+		{
+			"expression": "anger",
+			"text": "HERE THIS IS THE BLACK PORTAL TO GO TO HIS LIAR!!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "macn"
+		},
+		{
+			"expression": "anger",
+			"text": "GO NOW OR NEVER",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "macn"
+		},
+		{
+			"expression": "annyance",
+			"text": "Okay!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "rage",
+			"text": "AHHHHHHHHHH!!!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.035,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "The black portal closes",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "???",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.075,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "Week 7 is now unlocked... Play it.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.08,
+			"portrait": "unknown"
+		}
+	]
+}

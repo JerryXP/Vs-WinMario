@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "interest",
+			"text": "Wow, that was weird.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "optimism",
+			"text": "But hey! He is gone!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "optimism",
+			"text": "Finally the portal is here, let's go inside.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": ".",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "joy",
+			"text": "Finally I am back home!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "All: Windows Mario!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "ecstasy",
+			"text": "Hey!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "excited",
+			"text": "We are getting worried about you!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "anticipation",
+			"text": "Yea I know, but I don't know what happened",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "joy",
+			"text": "But yea, as I am saying, LET'S ALL PARTY!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.04,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "ALL: YEA!!!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "And then everybody party!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "Until the Next day!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "Congrats! You unlock Week 14!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		}
+	]
+}

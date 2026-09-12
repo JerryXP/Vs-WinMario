@@ -1,0 +1,239 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [-67, 2],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [38, -60],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [56, -7],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [29, 35],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-7, 3],
+			"anim": "hey",
+			"fps": 24,
+			"name": "hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-67, 2],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "right m",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [56, -7],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "left m",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [29, 35],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up m",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [38, -60],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down m",
+			"indices": []
+		},
+		{
+			"offsets": [77, 1],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "right alt"
+		},
+		{
+			"offsets": [40, -20],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "left-"
+		},
+		{
+			"offsets": [77, 1],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-alt-loop",
+			"indices": [2, 3, 4],
+			"name": "right alt instance 100"
+		},
+		{
+			"offsets": [110, 82],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "up-"
+		},
+		{
+			"offsets": [110, 82],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-alt-loop",
+			"indices": [2, 3, 4],
+			"name": "up-alt instance 100"
+		},
+		{
+			"offsets": [100, -160],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "down-"
+		},
+		{
+			"offsets": [-70, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "hit",
+			"indices": [],
+			"name": "Pico hit"
+		},
+		{
+			"offsets": [300, 220],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7],
+			"name": "shoot and reload instance 100"
+		},
+		{
+			"offsets": [47, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "intro1",
+			"indices": [],
+			"name": "lock in"
+		},
+		{
+			"offsets": [252, 220],
+			"loop": false,
+			"fps": 24,
+			"anim": "intro2",
+			"indices": [],
+			"name": "shoot and reload"
+		},
+		{
+			"offsets": [-14, -14],
+			"loop": false,
+			"fps": 24,
+			"anim": "cockCutscene",
+			"indices": [],
+			"name": "Pico gun reload"
+		},
+		{
+			"offsets": [-14, -14],
+			"loop": false,
+			"fps": 24,
+			"anim": "cock",
+			"indices": [],
+			"name": "Pico gun reload"
+		},
+		{
+			"offsets": [-70, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "shootMISS",
+			"indices": [],
+			"name": "Pico hit"
+		},
+		{
+			"offsets": [34, -1],
+			"loop": false,
+			"fps": 24,
+			"anim": "burpShit",
+			"indices": [],
+			"name": "burpp"
+		},
+		{
+			"offsets": [33, 2],
+			"loop": false,
+			"fps": 24,
+			"anim": "burpSmile",
+			"indices": [],
+			"name": "BURP"
+		},
+		{
+			"offsets": [33, 2],
+			"loop": false,
+			"fps": 24,
+			"anim": "burpSmileLong",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25, 26, 27, 28, 29, 30, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31],
+			"name": "BURP bigg instance 100"
+		},
+		{
+			"loop": false,
+			"offsets": [600, 230],
+			"anim": "attack",
+			"fps": 24,
+			"name": "pico fire",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-14, -14],
+			"anim": "preAttack",
+			"fps": 24,
+			"name": "Pico gun reload",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Pico_FNF_assetss",
+	"position": [-10, 290],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [183, 216, 85],
+	"camera_position": [50, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

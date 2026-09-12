@@ -1,0 +1,300 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Today is December 31, 2025.",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "It's 11:59 PM, and The Ball is dropping in 5 seconds...",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Pause.",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "And now it's 12 AM. It's now the New Year 2026.",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "joy",
+			"text": "LET'S GO!!",
+			"boxState": "angry",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "joy",
+			"text": "IT'S A NEW YEAR 2026, HECK YEAH!!",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "excited",
+			"text": "I KNOW RIGHT?",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "terror",
+			"text": "OH FU-",
+			"boxState": "angry",
+			"portrait": "win",
+			"speed": 0.04,
+			"sound": "win"
+		},
+		{
+			"expression": "submission",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "aggressivenes",
+			"text": "BF, We talk about this in almost 10 Weeks Ago... STOP TRESPASSING.",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "confused",
+			"text": "Oh sh*t my bad.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "annyance",
+			"text": "Do that one more time, then I will call the Police.",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "he-mad-ohno-3",
+			"text": "DAMN MY BAD!",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.035,
+			"sound": "bf"
+		},
+		{
+			"expression": "boredom",
+			"text": "It's fine, let's just go to the stage.",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Meanwhile..",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Hey GF",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Hey Windows Mario how are you doing?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "gf"
+		},
+		{
+			"expression": "joy",
+			"text": "Wonderful",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "That's great...",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "...BF scared you again, right?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "gf"
+		},
+		{
+			"expression": "loathing",
+			"text": "Yep.",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "he-mad-ohno-1",
+			"text": "It was an accident, I just want to ask why the stage is Mint?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "interest",
+			"text": "Too make it look cool?",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.06,
+			"sound": "win"
+		},
+		{
+			"expression": "anticipation",
+			"text": "(Why did I do that again?)",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Well I felt like its singing time!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "interest",
+			"text": "Yep, me too!",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "fear",
+			"text": "(SINCE WHEN DID I WEAR SUNGLASSES?!)",
+			"boxState": "angry",
+			"portrait": "win",
+			"speed": 0.04,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "let's..",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.065,
+			"sound": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "get..",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.065,
+			"sound": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "funky...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.065,
+			"sound": "bf"
+		},
+		{
+			"expression": "rage",
+			"text": "AYO?!?! I AM 15 YEARS OLD!!! WHAT THE F*CK IS WRONG WITH YOU?!?!",
+			"boxState": "angry",
+			"portrait": "win",
+			"speed": 0.035,
+			"sound": "win"
+		},
+		{
+			"expression": "demon",
+			"text": "BABE WHAT IS WRONG WITH YOU?!?!",
+			"boxState": "angry",
+			"portrait": "gf",
+			"speed": 0.035,
+			"sound": "gf"
+		},
+		{
+			"expression": "oops1",
+			"text": "I was talking about the Random FNF Songs, Geez, Calm Down!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "contempt",
+			"text": "Wow, you made me say a cuss word... Crap.",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "joy",
+			"text": "Ok let's go!",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "shocked",
+			"text": "Yea...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.07,
+			"sound": "bf"
+		}
+	]
+}

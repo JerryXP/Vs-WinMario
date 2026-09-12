@@ -1,0 +1,20 @@
+{
+	"dialogue": [
+		{
+			"expression": "joy",
+			"text": "Perfect, Less Talking, Last Song.",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "excited",
+			"text": "Yea!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		}
+	]
+}

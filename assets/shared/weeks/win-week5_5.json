@@ -1,0 +1,32 @@
+{
+	"storyName": "",
+	"difficulties": "Easy, Normal, Hard, Insane",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "win-week5",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Hark",
+			"icon-windows-christmas-free",
+			[
+				32,
+				64,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

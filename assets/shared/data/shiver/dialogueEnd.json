@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Thank you for coming!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "optimism",
+			"text": "You're Welcome!",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "joy",
+			"text": "See ya later!",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		}
+	]
+}

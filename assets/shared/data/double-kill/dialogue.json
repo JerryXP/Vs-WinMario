@@ -1,0 +1,101 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Oh, boy! That makes me so happy, I'm-a light-headed!",
+			"boxState": "normal",
+			"portrait": "mario",
+			"speed": 0.05,
+			"sound": "mario"
+		},
+		{
+			"expression": "talk",
+			"text": "Anyways! Before we get to the Last Song...",
+			"boxState": "normal",
+			"portrait": "mario",
+			"speed": 0.05,
+			"sound": "mario"
+		},
+		{
+			"expression": "confused",
+			"text": "Have you seen Luigi?",
+			"boxState": "normal",
+			"portrait": "mario",
+			"speed": 0.05,
+			"sound": "mario"
+		},
+		{
+			"expression": "interest",
+			"text": "Luigi?",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.065,
+			"sound": "win"
+		},
+		{
+			"expression": "excited",
+			"text": "Yahoo!!",
+			"boxState": "angry",
+			"portrait": "luigi",
+			"speed": 0.04,
+			"sound": "luigi"
+		},
+		{
+			"expression": "excited",
+			"text": "I'm a Luigi! Number One!",
+			"boxState": "normal",
+			"portrait": "luigi",
+			"speed": 0.05,
+			"sound": "luigi"
+		},
+		{
+			"expression": "fear",
+			"text": "LUIGI?!?!",
+			"boxState": "angry",
+			"portrait": "win",
+			"speed": 0.04,
+			"sound": "win"
+		},
+		{
+			"expression": "joy",
+			"text": "YAHOOOO!!!!!",
+			"boxState": "angry",
+			"portrait": "win",
+			"speed": 0.035,
+			"sound": "win"
+		},
+		{
+			"expression": "excited",
+			"text": "Hey Luigi! It's time for you to sing with us!",
+			"boxState": "normal",
+			"portrait": "mario",
+			"speed": 0.05,
+			"sound": "mario"
+		},
+		{
+			"expression": "excited",
+			"text": "Okay!",
+			"boxState": "normal",
+			"portrait": "luigi",
+			"speed": 0.05,
+			"sound": "luigi"
+		},
+		{
+			"expression": "joy",
+			"text": "Yay! Now we can move on the ground!",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "excited",
+			"text": "Moving on the ground... Moving on the Ground... He He He!!",
+			"boxState": "normal",
+			"portrait": "mario",
+			"speed": 0.05,
+			"sound": "mario"
+		}
+	],
+	"style": ""
+}

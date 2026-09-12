@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "remorse",
+			"text": "Do you understand now?",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "submission",
+			"text": "Yes I do..",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "vigilance",
+			"text": "..I need to find a way to get you out",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "optimism",
+			"text": "Ok!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "anger",
+			"text": "WHAT THE F*** IS GOING ON?!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "mace"
+		},
+		{
+			"expression": "awe",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.08,
+			"portrait": "mace"
+		},
+		{
+			"expression": "awe",
+			"text": "So, you invited him?",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.08,
+			"portrait": "mace"
+		},
+		{
+			"expression": "aggressivenes",
+			"text": "Yes so that way he can get me out from this place and you",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "boredom",
+			"text": "..I knew it's a bad idea, now time to trap you in.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "fear",
+			"text": "HELP ME!!!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "macn"
+		}
+	]
+}

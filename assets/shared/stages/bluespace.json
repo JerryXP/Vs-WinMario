@@ -1,0 +1,157 @@
+{
+	"camera_boyfriend": [
+		-90,
+		-60
+	],
+	"_editorMeta": {
+		"boyfriend": "bf-end",
+		"gf": "gf-end",
+		"dad": "WINDOWS-end"
+	},
+	"boyfriend": [
+		980,
+		190
+	],
+	"girlfriend": [
+		440,
+		230
+	],
+	"isPixelStage": false,
+	"objects": [
+		{
+			"x": -1772,
+			"y": -956,
+			"scale": [
+				2,
+				2
+			],
+			"image": "bluespace/stageback",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "bg",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.6,
+				0.6
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -108,
+			"y": -168,
+			"scale": [
+				0.8,
+				0.8
+			],
+			"image": "custom-walls/special8",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "wall",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 1755,
+			"y": 161,
+			"scale": [
+				0.3,
+				0.3
+			],
+			"image": "bluespace/lamp",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "lamp2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -466,
+			"y": 161,
+			"scale": [
+				0.3,
+				0.3
+			],
+			"image": "bluespace/lamp",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "lamp2_copy1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 758,
+			"y": 237,
+			"scale": [
+				0.4,
+				0.45
+			],
+			"image": "bluespace/couch",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "couch",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		-60
+	],
+	"defaultZoom": 0.6,
+	"camera_speed": 8,
+	"directory": "",
+	"opponent": [
+		100,
+		200
+	],
+	"camera_opponent": [
+		40,
+		-60
+	],
+	"hide_girlfriend": false
+}

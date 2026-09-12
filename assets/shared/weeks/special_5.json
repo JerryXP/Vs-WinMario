@@ -1,0 +1,59 @@
+{
+	"storyName": "THE EVIL CLONES",
+	"difficulties": "Hard, Insane",
+	"hideFreeplay": false,
+	"weekBackground": "win5s",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "special_4",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Dejection",
+			"pibgirlfriend-free",
+			[
+				150,
+				0,
+				0
+			]
+		],
+		[
+			"Defeat II",
+			"pibpico-free",
+			[
+				0,
+				150,
+				0
+			]
+		],
+		[
+			"Angered Him",
+			"pibboyfriend-free",
+			[
+				0,
+				150,
+				150
+			]
+		],
+		[
+			"Unknown Suffering",
+			"windows-glitch-free",
+			[
+				150,
+				0,
+				150
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 13",
+	"hiddenUntilUnlocked": true
+}

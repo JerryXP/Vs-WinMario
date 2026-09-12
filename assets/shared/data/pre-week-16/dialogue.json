@@ -1,0 +1,141 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn",
+			"boxState": "normal",
+			"expression": "optimism",
+			"text": "Hey! He is back!"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.055,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I know but... he is sleeping?"
+		},
+		{
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn",
+			"boxState": "normal",
+			"expression": "interest",
+			"text": "I think he is knocked out."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Yep it does look like it."
+		},
+		{
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn",
+			"boxState": "normal",
+			"expression": "admiration",
+			"text": "C'mon, let's take him back home."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Meanwhile"
+		},
+		{
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn",
+			"boxState": "normal",
+			"expression": "anticipation",
+			"text": "Wait. Why is this place closed & put on for sale, while his stuff is outside? What is happening?"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Well it's because I don't want him to live where the portals appear randomly."
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Plus, it also took him to Very Unsafe places that can cause his death!"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "So that's why I asked my Dad to have $4,000 to buy him the new house."
+		},
+		{
+			"sound": "mac",
+			"speed": 0.055,
+			"portrait": "macn",
+			"boxState": "normal",
+			"expression": "interest",
+			"text": "Wait, so... you buy him a new house?"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yes! And be 100% trust with me! Because it's also looks cool too!"
+		},
+		{
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn",
+			"boxState": "normal",
+			"expression": "admiration",
+			"text": "Alright. Let's see what happens next."
+		},
+		{
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But first, when he wakes up, give this letter to him."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.065,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "oh... uh.. ok."
+		},
+		{
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn",
+			"boxState": "normal",
+			"expression": "joy",
+			"text": "K, bye!"
+		}
+	]
+}

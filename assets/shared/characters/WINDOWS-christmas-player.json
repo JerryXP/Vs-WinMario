@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"offsets": [264, 333],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down"
+		},
+		{
+			"offsets": [266, 353],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up"
+		},
+		{
+			"offsets": [250, 314],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Uncool"
+		},
+		{
+			"offsets": [267, 334],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Crydown"
+		},
+		{
+			"offsets": [264, 353],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "upset"
+		},
+		{
+			"offsets": [267, 334],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "Hey"
+		},
+		{
+			"offsets": [253, 314],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [266, 333],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Left"
+		},
+		{
+			"offsets": [266, 333],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		},
+		{
+			"offsets": [268, 333],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Missleft"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/WinMario_Christmas-v3.0",
+	"position": [-20, 360],
+	"healthicon": "windows-christmas",
+	"flip_x": false,
+	"healthbar_colors": [128, 0, 128],
+	"camera_position": [150, -140],
+	"sing_duration": 8,
+	"scale": 0.65,
+	"_editor_isPlayer": true
+}

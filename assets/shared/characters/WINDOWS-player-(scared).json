@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"offsets": [263, 325],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down0"
+		},
+		{
+			"offsets": [266, 344],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Crydown"
+		},
+		{
+			"offsets": [264, 344],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "upset"
+		},
+		{
+			"offsets": [251, 306],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Right0"
+		},
+		{
+			"offsets": [266, 324],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Left0"
+		},
+		{
+			"loop": false,
+			"offsets": [251, 306],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Uncool",
+			"indices": []
+		},
+		{
+			"offsets": [265, 325],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		},
+		{
+			"offsets": [267, 326],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Missleft"
+		},
+		{
+			"offsets": [265, 343],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/WinMario_v3.0-stress",
+	"position": [-20, 360],
+	"healthicon": "windows",
+	"flip_x": false,
+	"healthbar_colors": [128, 0, 128],
+	"camera_position": [140, -130],
+	"sing_duration": 8,
+	"scale": 0.65,
+	"_editor_isPlayer": true
+}

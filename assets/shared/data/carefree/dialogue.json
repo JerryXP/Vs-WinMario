@@ -1,0 +1,212 @@
+{
+	"dialogue": [
+		{
+			"expression": "interest",
+			"text": "I hope it takes me back home...",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "interest",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "boredom",
+			"text": "Nope it didn't, where am I now.",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Finally I am Home, Now time to-",
+			"boxState": "normal",
+			"portrait": "px",
+			"speed": 0.05,
+			"sound": "px"
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "px",
+			"speed": 0.05,
+			"sound": "px"
+		},
+		{
+			"expression": "awe",
+			"text": "!",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "shocked",
+			"text": "!",
+			"boxState": "normal",
+			"portrait": "px",
+			"speed": 0.05,
+			"sound": "px"
+		},
+		{
+			"expression": "pissed",
+			"text": "WM/LXP?!?!",
+			"boxState": "angry",
+			"portrait": "px",
+			"speed": 0.04,
+			"sound": "px"
+		},
+		{
+			"expression": "awe",
+			"text": "Yes PxJx...?",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.065,
+			"sound": "win"
+		},
+		{
+			"expression": "pissed",
+			"text": "WHAT ARE YOU DOING IN MY HOUSE?!?!",
+			"boxState": "angry",
+			"portrait": "px",
+			"speed": 0.035,
+			"sound": "px"
+		},
+		{
+			"expression": "interest",
+			"text": "I don't know?",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.06,
+			"sound": "win"
+		},
+		{
+			"expression": "pissed",
+			"text": "I DIDN'T INVITE YOU OR ANNOUNCED TO COME TO MY HOUSE!!",
+			"boxState": "angry",
+			"portrait": "px",
+			"speed": 0.04,
+			"sound": "px"
+		},
+		{
+			"expression": "pensiveness",
+			"text": "This is confusing, but I came from the Portal.",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "pissed",
+			"text": "WHAT?! PORTAL?!",
+			"boxState": "angry",
+			"portrait": "px",
+			"speed": 0.04,
+			"sound": "px"
+		},
+		{
+			"expression": "interest",
+			"text": "Yes",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "pissed",
+			"text": "You're using this as an excuse, right?",
+			"boxState": "normal",
+			"portrait": "px",
+			"speed": 0.05,
+			"sound": "px"
+		},
+		{
+			"expression": "trust",
+			"text": "No",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "pissed",
+			"text": "Let me see through the cameras to make sure you're not lying.",
+			"boxState": "normal",
+			"portrait": "px",
+			"speed": 0.05,
+			"sound": "px"
+		},
+		{
+			"expression": "talk",
+			"text": "Sometime Later",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "Ok, You're Not Lying, so what are you doing here?",
+			"boxState": "normal",
+			"portrait": "px",
+			"speed": 0.05,
+			"sound": "px"
+		},
+		{
+			"expression": "interest",
+			"text": "Idk, but I am here.",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh Ok.",
+			"boxState": "normal",
+			"portrait": "px",
+			"speed": 0.05,
+			"sound": "px"
+		},
+		{
+			"expression": "confused",
+			"text": "Is that a Mic? You do Friday Night Funk?",
+			"boxState": "normal",
+			"portrait": "px",
+			"speed": 0.05,
+			"sound": "px"
+		},
+		{
+			"expression": "talk",
+			"text": "Yes",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh. Let’s Go",
+			"boxState": "normal",
+			"portrait": "px",
+			"speed": 0.05,
+			"sound": "px"
+		},
+		{
+			"expression": "talk",
+			"text": "Okay",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		}
+	]
+}

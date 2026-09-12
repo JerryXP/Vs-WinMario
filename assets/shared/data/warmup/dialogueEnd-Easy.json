@@ -1,0 +1,45 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "win",
+			"speed": 0.075,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "contempt",
+			"text": "Umm..... Yeah..... Bro..... Twin...... It looks like you're not ready for Vs. WinMario......"
+		},
+		{
+			"sound": "win",
+			"speed": 0.075,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "contempt",
+			"text": "Nor Friday Night Funkin'. Yeah... how about you play Normal FNF, before playing this Mod... Ok?"
+		},
+		{
+			"sound": "win",
+			"speed": 0.075,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "contempt",
+			"text": "& since it's a FNF Cover Song Mod, play the other FNF Mods. Don't Fucking come back here again."
+		},
+		{
+			"sound": "win",
+			"speed": 0.075,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "contempt",
+			"text": "I am expecting you to come back and try harder difficulties other than Easy."
+		},
+		{
+			"sound": "win",
+			"speed": 0.075,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "contempt",
+			"text": "That was extremelly embarrassing of you to play that on Easy Difficulty."
+		}
+	]
+}

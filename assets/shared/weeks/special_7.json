@@ -1,0 +1,77 @@
+{
+	"storyName": "The Finale of Death",
+	"difficulties": "Finale",
+	"hideFreeplay": false,
+	"weekBackground": "win7s",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "special_6",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Trouble",
+			"bf-corrupted1-free",
+			[
+				0,
+				128,
+				255
+			]
+		],
+		[
+			"Onslaught",
+			"CorruptedBF-free",
+			[
+				128,
+				0,
+				64
+			]
+		],
+		[
+			"You Cant Run",
+			"CorruptedBF-free",
+			[
+				128,
+				0,
+				64
+			]
+		],
+		[
+			"Deathmatch",
+			"mr-glitch-free",
+			[
+				0,
+				0,
+				0
+			]
+		],	
+		[
+			"Tormentor",
+			"mr-glitch-error-free",
+			[
+				0,
+				0,
+				0
+			]
+		],	
+		[
+			"Remembrance",
+			"mr-glitch-error-free",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 15",
+	"hiddenUntilUnlocked": true
+}

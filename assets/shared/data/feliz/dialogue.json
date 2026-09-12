@@ -1,0 +1,180 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "1 Month Later",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "It's December 20th, Windows Mario was exploring the Mall.",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Blah blah blah, We all know, he ran to BF and GF for the 4th Time",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "optimism",
+			"text": "Hello, there!",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Wow, we ran to each other for the 4th time already!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "joy",
+			"text": "Shocking isn't it?",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Wow, I've felt Vibin'",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Friday Night Vibin'",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Yes",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "gf"
+		},
+		{
+			"expression": "anticipation",
+			"text": "Ok",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok for you BF, I got 2 songs!",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "shocked",
+			"text": "Oh no, not 2 songs in Christmas Mall",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "We all know, all hell break loose in 3rd song",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "anticipation",
+			"text": "So the 3rd song will be Lemon Demon/Monster?",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "confused",
+			"text": "Yes?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "joy",
+			"text": "Oh No, Don't Worry, He will not come here right?",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "annyance",
+			"text": "RIGHT?",
+			"boxState": "angry",
+			"portrait": "win",
+			"speed": 0.035,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Yes Oh my flipping god...",
+			"boxState": "normal",
+			"portrait": "monster",
+			"speed": 0.06,
+			"sound": "lemon"
+		},
+		{
+			"expression": "joy",
+			"text": "Anyways 2 songs.",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "confused",
+			"text": "Ok.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "First, Feliz (made by bbpanzu)",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "alright, go for it.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		}
+	]
+}

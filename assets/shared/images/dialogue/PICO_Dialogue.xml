@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PICO_Dialogue.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="PICO0000" x="0" y="0" width="441" height="361" frameX="-256" frameY="-107" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="PICO0001" x="0" y="0" width="441" height="361" frameX="-256" frameY="-107" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="PICO0002" x="0" y="0" width="441" height="361" frameX="-256" frameY="-107" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="PICO0003" x="0" y="0" width="441" height="361" frameX="-256" frameY="-107" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="PICO0004" x="0" y="0" width="441" height="361" frameX="-256" frameY="-107" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="PICO LOOP0000" x="0" y="0" width="441" height="361" frameX="-256" frameY="-107" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="PICO LOOP0001" x="0" y="0" width="441" height="361" frameX="-256" frameY="-107" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="PICO LOOP0002" x="0" y="0" width="441" height="361" frameX="-256" frameY="-107" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="PICO LOOP0003" x="0" y="0" width="441" height="361" frameX="-256" frameY="-107" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="PICO LOOP0004" x="0" y="0" width="441" height="361" frameX="-256" frameY="-107" frameWidth="1494" frameHeight="870"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BFcorrupted.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="BFcorrupted0000" x="0" y="0" width="815" height="807" frameX="0" frameY="0" frameWidth="815" frameHeight="807"/>
+	<SubTexture name="BFcorrupted0001" x="0" y="0" width="815" height="807" frameX="0" frameY="0" frameWidth="815" frameHeight="807"/>
+	<SubTexture name="BFcorrupted0002" x="0" y="0" width="815" height="807" frameX="0" frameY="0" frameWidth="815" frameHeight="807"/>
+	<SubTexture name="BFcorrupted0003" x="0" y="0" width="815" height="807" frameX="0" frameY="0" frameWidth="815" frameHeight="807"/>
+	<SubTexture name="BFcorrupted0004" x="0" y="0" width="815" height="807" frameX="0" frameY="0" frameWidth="815" frameHeight="807"/>
+	<SubTexture name="BFcorrupted LOOP0000" x="0" y="0" width="815" height="807" frameX="0" frameY="0" frameWidth="815" frameHeight="807"/>
+	<SubTexture name="BFcorrupted LOOP0001" x="0" y="0" width="815" height="807" frameX="0" frameY="0" frameWidth="815" frameHeight="807"/>
+	<SubTexture name="BFcorrupted LOOP0002" x="0" y="0" width="815" height="807" frameX="0" frameY="0" frameWidth="815" frameHeight="807"/>
+	<SubTexture name="BFcorrupted LOOP0003" x="0" y="0" width="815" height="807" frameX="0" frameY="0" frameWidth="815" frameHeight="807"/>
+	<SubTexture name="BFcorrupted LOOP0004" x="0" y="0" width="815" height="807" frameX="0" frameY="0" frameWidth="815" frameHeight="807"/>
+</TextureAtlas>

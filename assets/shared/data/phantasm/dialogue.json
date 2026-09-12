@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "trust",
+			"text": "I don't get it, why does he get scared of me?",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "aggressivenes",
+			"text": "Because, I don't want him to know the true form.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "rage",
+			"text": "YES I DO, AND THAT'S WHY I WANT HIM THE TRUTH!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "macn"
+		},
+		{
+			"expression": "joy",
+			"text": "Hahaha, He never wants to see your true form...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "annyance",
+			"text": "You know what that is so it...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "vigilance",
+			"text": "I had to fight myself to get you off my body!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "anger",
+			"text": "FOREVER!!!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "joy",
+			"text": "Go ahead and try, it will never work, you weakling!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "annyance",
+			"text": "Grrr...",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		}
+	]
+}

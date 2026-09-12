@@ -1,0 +1,133 @@
+{
+	"dialogue": [
+		{
+			"expression": "joy",
+			"text": "Yahoo!!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.04,
+			"portrait": "win"
+		},
+		{
+			"expression": "optimism",
+			"text": "Yes!! Back on the XP Hill!! That means, my home is near!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "interest",
+			"text": "Huh? Is that a Red Hat? Wait, is that Mario?!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.06,
+			"portrait": "win"
+		},
+		{
+			"expression": "excited",
+			"text": "Hello! It's a me, Mario!",
+			"boxState": "normal",
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario"
+		},
+		{
+			"expression": "excited",
+			"text": "And I want to say thank you for choosing...",
+			"boxState": "normal",
+			"portrait": "mario",
+			"speed": 0.05,
+			"sound": "mario"
+		},
+		{
+			"expression": "excited",
+			"text": "Mario's Friday Night Funkin!",
+			"boxState": "normal",
+			"portrait": "mario",
+			"speed": 0.05,
+			"sound": "mario"
+		},
+		{
+			"expression": "excited",
+			"text": "Are you reading to sing?",
+			"boxState": "normal",
+			"portrait": "mario",
+			"speed": 0.05,
+			"sound": "mario"
+		},
+		{
+			"expression": "optimism",
+			"text": "WOW!!",
+			"boxState": "angry",
+			"portrait": "win",
+			"speed": 0.035,
+			"sound": "win"
+		},
+		{
+			"expression": "submission",
+			"text": "Wait... ",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.08,
+			"sound": "win"
+		},
+		{
+			"expression": "apprehension",
+			"text": "You're not fake, are you?",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.065,
+			"sound": "win"
+		},
+		{
+			"expression": "confused",
+			"text": "Noooo!",
+			"boxState": "normal",
+			"portrait": "mario",
+			"speed": 0.05,
+			"sound": "mario"
+		},
+		{
+			"expression": "joy",
+			"text": "Oh Ok!",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "optimism",
+			"text": "Well Mario, we are going to sing some cover songs!",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "loathing",
+			"text": "(Because I don't have the budget to hire somebody to make me a custom song.)",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "loathing",
+			"text": "(And I don't know how to make songs and I suck at making one.)",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "excited",
+			"text": "Okie Dokie! Get ready to move those fingers!",
+			"boxState": "normal",
+			"portrait": "mario",
+			"speed": 0.05,
+			"sound": "mario"
+		}
+	],
+	"style": ""
+}

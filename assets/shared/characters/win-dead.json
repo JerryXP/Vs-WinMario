@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"offsets": [317, 336],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "Start"
+		},
+		{
+			"offsets": [317, 333],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "Loop"
+		},
+		{
+			"offsets": [317, 335],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "End"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Win_Dead",
+	"position": [-20, 360],
+	"healthicon": "windows",
+	"flip_x": true,
+	"healthbar_colors": [128, 0, 128],
+	"camera_position": [140, -140],
+	"sing_duration": 8,
+	"scale": 0.65,
+	"_editor_isPlayer": true
+}

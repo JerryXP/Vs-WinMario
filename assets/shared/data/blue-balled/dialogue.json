@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "interest",
+			"text": "Ugh... My Head...",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.09,
+			"portrait": "win"
+		},
+		{
+			"expression": "apprehension",
+			"text": "Wait, Where am I?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "anticipation",
+			"text": "Well... Look What We Have Here... Is your name WinMario?",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "vigilance",
+			"text": "Yes I am, and Where am I, What is This Place, and Who are you?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "optimism",
+			"text": "Well, I am MacOS Wario and You're In this Palace with Me... FOREVER!!!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "rage",
+			"text": "WHAT?!?!?! MACOS WARIO?!?!?!?!? I DON'T WANT TO BE WITH YOU IN THIS PLACE!!! LET ME GO!!!!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.03,
+			"portrait": "win"
+		},
+		{
+			"expression": "admiration",
+			"text": "Relax, WinMario, You may get out of here, but First you must beat me in the Singing Battle!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "anger",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.5,
+			"portrait": "win"
+		}
+	]
+}

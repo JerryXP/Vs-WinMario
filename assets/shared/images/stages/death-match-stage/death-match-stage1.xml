@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="death-match-stage1.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="644" y="0" width="644" height="354" frameX="2" frameY="2" frameWidth="640" frameHeight="350"/>
+	<SubTexture name="idle0001" x="644" y="0" width="644" height="354" frameX="2" frameY="2" frameWidth="640" frameHeight="350"/>
+	<SubTexture name="idle0002" x="644" y="0" width="644" height="354" frameX="2" frameY="2" frameWidth="640" frameHeight="350"/>
+	<SubTexture name="idle0003" x="644" y="0" width="644" height="354" frameX="2" frameY="2" frameWidth="640" frameHeight="350"/>
+	<SubTexture name="idle0004" x="644" y="708" width="644" height="354" frameX="2" frameY="2" frameWidth="640" frameHeight="350"/>
+	<SubTexture name="idle0005" x="0" y="708" width="644" height="354" frameX="2" frameY="2" frameWidth="640" frameHeight="350"/>
+	<SubTexture name="idle0006" x="0" y="0" width="644" height="354" frameX="2" frameY="2" frameWidth="640" frameHeight="350"/>
+	<SubTexture name="idle0007" x="0" y="354" width="644" height="354" frameX="2" frameY="2" frameWidth="640" frameHeight="350"/>
+	<SubTexture name="idle0008" x="644" y="354" width="644" height="354" frameX="2" frameY="2" frameWidth="640" frameHeight="350"/>
+	<SubTexture name="idle0009" x="644" y="354" width="644" height="354" frameX="2" frameY="2" frameWidth="640" frameHeight="350"/>
+	<SubTexture name="idle0010" x="644" y="354" width="644" height="354" frameX="2" frameY="2" frameWidth="640" frameHeight="350"/>
+	<SubTexture name="idle0011" x="644" y="354" width="644" height="354" frameX="2" frameY="2" frameWidth="640" frameHeight="350"/>
+	<SubTexture name="idle0012" x="644" y="354" width="644" height="354" frameX="2" frameY="2" frameWidth="640" frameHeight="350"/>
+	<SubTexture name="idle0013" x="644" y="354" width="644" height="354" frameX="2" frameY="2" frameWidth="640" frameHeight="350"/>
+	<SubTexture name="idle0014" x="644" y="354" width="644" height="354" frameX="2" frameY="2" frameWidth="640" frameHeight="350"/>
+	<SubTexture name="idle0015" x="0" y="708" width="644" height="354" frameX="2" frameY="2" frameWidth="640" frameHeight="350"/>
+	<SubTexture name="idle0016" x="644" y="708" width="644" height="354" frameX="2" frameY="2" frameWidth="640" frameHeight="350"/>
+</TextureAtlas>

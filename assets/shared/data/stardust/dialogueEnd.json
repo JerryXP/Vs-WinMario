@@ -1,0 +1,156 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "That was great, I was just here because today is the New Years.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "joy",
+			"text": "Okay, Good Bye, and Happy New Year!",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "aggressivenes",
+			"text": "BF... Don't make me say a cuss word again nor trespassing my property, understand?",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "enrage",
+			"text": "OKAY!!!",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.035,
+			"sound": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "Okay bye!",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "gf"
+		},
+		{
+			"expression": "joy",
+			"text": "Okay see yea!",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "They Left.",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Okay now let me change the Lights to Purple.",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Then take off my sunglasses and...",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "optimism",
+			"text": "...That's it for today!",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "The Red Portal appears",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "interest",
+			"text": "What is that... Wait...",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "aggressivenes",
+			"text": "...Oh No, I am not going inside of that portal!",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "annyance",
+			"text": "I went through enough torture, I AM NOT DOING THIS AGAIN!!!",
+			"boxState": "angry",
+			"portrait": "win",
+			"speed": 0.04,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Red Portal Sucks Him Up like the Vacuum Cleaner. (extremely pause)",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "apprehension",
+			"text": "Wait, why is it taking me to Red Portal?! Please Don't Take Me-",
+			"boxState": "normal",
+			"portrait": "win",
+			"speed": 0.05,
+			"sound": "win"
+		},
+		{
+			"expression": "fear",
+			"text": "NOOOOOO!!!",
+			"boxState": "angry",
+			"portrait": "win",
+			"speed": 0.045,
+			"sound": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Congrats, you unlock Week 10, Have Fun!",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}
