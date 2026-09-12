@@ -101,7 +101,7 @@ To put WinMario, Psych, or P-Slice Mod Packs, please Right Click the WinMario.ap
 
 If Linux user reading this, Please open terminal, and Install VLC Libraries, otherwise, the game will not open.
 
-If everyone reading this, please remember that V3 or later that Splits "scripts" folder to "luaScript" (Lua only) & "haxeScript" (Haxe/HX Script). so look inside the Psych/P-Slice Mod Pack (because it has "scripts" folder, so if the Filename is lua "script.lua" put it under "luaScript" folder but if it's haxe "script.hx" put it under "haxeScript" folder.
+If everyone reading this, please remember that V3 or later that Splits "scripts" folder to "luaScript" (Lua only) & "haxeScript" (Haxe/HX Script). so look inside the Psych/P-Slice Mod Pack (because it has "scripts" folder, so if the Filename is lua "script.lua" put it under "luaScript" folder but if it's haxe "script.hx" put it under "haxeScript" folder.)
 
 Yes. Vs. WinMario is indeed a FNF Cover Song, but at least I credited "almost" Everyone. But please let me know if I missing somebody. But again, Full Credits are in the game.
 
