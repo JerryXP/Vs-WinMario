@@ -6,6 +6,8 @@
 
 ## Welcome to Vs. WinMario!
 
+### FOR PEOPLE WHO IS ON GITHUB, THE LATEST VERSION IS NOT THERE DUE TO HOW BIG THE GAME IS. PLEASE DOWNLOAD IT FROM GAME JOLT OR GOOGLE DRIVE, THANK YOU ;)
+
 ### -☆- What's this about? -☆-
 This is a FNF Mod About, WinMario & other characters, and they are teaming up against BF, GF, Pico, and other FNF Characters. (well... kind of..) But it's not just that... It is about the battle of rescuing somebody and stopping the Evil and the name of... Mr. Glitch.
 
