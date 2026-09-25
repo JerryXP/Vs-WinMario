@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down0"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "miss-down0"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left0"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "miss-left0"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right0"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "miss-right0"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up0"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "miss-up0"
+		},
+		{
+			"offsets": [7, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle0"
+		},
+		{
+			"offsets": [7, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "hey0"
+		},
+		{
+			"offsets": [7, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "dodge0"
+		},
+		{
+			"offsets": [7, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "pre-attack0",
+			"loop": false,
+			"name": "pre attack0"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "attack0"
+		},
+		{
+			"offsets": [7, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "hurt",
+			"loop": false,
+			"name": "hit0"
+		},
+		{
+			"offsets": [7, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "scared",
+			"loop": false,
+			"name": "idle shaking0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/bfPixel",
+	"position": [0, 350],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [123, 214, 246],
+	"camera_position": [50, -60],
+	"sing_duration": 4,
+	"scale": 6,
+	"_editor_isPlayer": true
+}
