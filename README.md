@@ -1,7 +1,7 @@
 # Lunar Engine
 
 <a href="https://github.com/JerryXP/Vs-WinMario/tree/engine-ver">
-    <img src="assets/shared/images/logo.png" alt="Logo" width="500" height="500">
+    <img src="spc_20260925_063551.png" alt="Logo" width="500" height="500">
 </a>
 
 ### -☆- What's that? -☆-
