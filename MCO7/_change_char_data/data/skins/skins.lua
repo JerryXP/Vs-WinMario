@@ -1,8 +1,7 @@
 skin = 0
 enterpressed = 0
 confirmed = false
-selectcharacters = {'bf', 'pico-playable', 'tankman-playable'
-, 'WINDOWS-player', 'PJ-player', 'Dino-player'} -- make it an array, to make it easier to add a character
+selectcharacters = {'bf', 'pico-playable', 'tankman-playable'} -- make it an array, to make it easier to add a character
 
 function onCreate()
 	initSaveData('selectskins')
