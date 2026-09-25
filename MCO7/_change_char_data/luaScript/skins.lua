@@ -1,6 +1,5 @@
 skin = 0
-selectcharacters = {'bf', 'pico-playable', 'tankman-playable'
-, 'WINDOWS-player', 'PJ-player', 'Dino-player'} -- make it an array, to make it easier to add a character
+selectcharacters = {'bf', 'pico-playable', 'tankman-playable'} -- make it an array, to make it easier to add a character
 
 init = false -- to make sure the initial change char doesn't fuck things up
 
