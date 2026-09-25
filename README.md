@@ -1,5 +1,5 @@
 # Lunar Engine
-(not to get confused with [Kirby's Lunar Engine](https://github.com/KirbyKid256/LunarEngine-Archive)
+(not to get confused with [Kirby's Lunar Engine](https://github.com/KirbyKid256/LunarEngine-Archive))
 
 <a href="https://github.com/JerryXP/Vs-WinMario/tree/engine-ver">
     <img src="spc_20260925_063551.png" alt="Logo" width="500" height="500">
