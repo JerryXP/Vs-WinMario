@@ -29,9 +29,7 @@ Cause that's annoying to FNF Devs.
     <img src="docs/screenshot-2026-09-24-18-13-03.png" alt="imgOptionslunar" width="854" height="480">
 </a> <br>
 
-4. (Windows Only) When you close the game, the eindoe will do a fade out animation (please thank [Slushi](https://github.com/Slushi-Github) from [Slushi Engine](https://github.com/Slushi-Github/Slushi-Engine) & [Lenin](https://github.com/LeninAsto) from [The Psych Plus Team](https://github.com/Psych-Plus-Team))<br> <a href="https://github.com/JerryXP/Vs-WinMario/tree/engine-ver">
-    <img src="docs/windows 2026.09.24 - 18.25.15.01.mp4" width="854" height="480">
-</a> <br>
+4. (Windows Only) When you close the game, the eindoe will do a fade out animation (please thank [Slushi](https://github.com/Slushi-Github) from [Slushi Engine](https://github.com/Slushi-Github/Slushi-Engine) & [Lenin](https://github.com/LeninAsto) from [The Psych Plus Team](https://github.com/Psych-Plus-Team))<br> (you need to go to docs/thevideofile.mp4 to see what it looks like.<br>
 
 5. Add more Notes & it's splashes , and Add Lil Buddies in the Chart Editor (please thank [Rozebud](https://github.com/ThatRozebudDude) for [Original](https://github.com/ThatRozebudDude/FPS-Plus-Public) and & [Awe](https://github.com/Awe-Some-Jack) from [AS Engine](https://github.com/Awe-Some-Jack/FNF-AS-Engine) for port.)<br> <a href="https://github.com/JerryXP/Vs-WinMario/tree/engine-ver">
     <img src="docs/screenshot-2026-09-24-18-14-09.png" alt="notesLunaroptions" width="854" height="480">
