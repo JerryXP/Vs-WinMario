@@ -46,7 +46,7 @@ Cause that's annoying to FNF Devs.
     <img src="docs/screenshot-2026-09-24-18-16-29.png" alt="lilBuddiesLunaroptions" width="854" height="480">
 </a> <br>
 
-7. the "scripts" folder is split-up into "luaScript" (Lua only) & "haxScript" (HX Only)<br>
+7. the "scripts" folder is split-up into "luaScript" (Lua only) & "haxeScript" (HX Only)<br>
 
 ### -☆- Information -☆-
 [P-Slice](https://github.com/Psych-Slice/P-Slice) Version: 3.4.2<br>
