@@ -15,7 +15,7 @@ Cause that's annoying to FNF Devs.
 <br>
 
 ### -☆- What's the Difference? -☆-
-1. It has Winning Icons. Which is where if you had 80% or more... It will load! yeah yeah. It's optional. (it needs t9o be 450x150)(please thank [DaPootisBirdYT](https://gamebanana.com/members/2031145) <br>
+1. It has Winning Icons. Which is where if you had 80% or more... It will load! yeah yeah. It's optional. (it needs to be 450x150)(please thank [DaPootisBirdYT](https://gamebanana.com/members/2031145)) <br>
 <a href="https://github.com/JerryXP/Vs-WinMario/tree/engine-ver">
     <img src="assets/shared/images/icons/icon-bf.png" alt="bf-win-icon" width="450" height="150">
 </a> <br>
