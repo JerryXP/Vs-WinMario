@@ -528,7 +528,6 @@ class PlayState extends MusicBeatState
 		practiceMode = ClientPrefs.getGameplaySetting('practice');
 		cpuControlled = ClientPrefs.getGameplaySetting('botplay');
 		alternateTIMER = ClientPrefs.getGameplaySetting('botplay');
-		allowDebugKeys = ClientPrefs.getGameplaySetting('debug');
 
 		if (ClientPrefs.data.shadedTimeBar == 'Gradient') {
 			reloadGradientColors();
@@ -2401,7 +2400,7 @@ public var canReset:Bool = true;
 var startedCountdown:Bool = false;
 var canPause:Bool = true;
 var freezeCamera:Bool = false;
-var allowDebugKeys:Bool = true;
+var allowDebugKeys:Bool = (ClientPrefs.data.debugkeysLunar ? true : false);
 
 override public function update(elapsed:Float)
 {
