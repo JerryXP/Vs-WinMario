@@ -3860,8 +3860,8 @@ public var totalPlayed:Int = 0;
 public var totalNotesHit:Float = 0.0;
 
 public var showCombo:Bool = (!ClientPrefs.data.showComboSprite ? false : true);
-public var showComboNum:Bool = true;
-public var showRating:Bool = true;
+public var showComboNum:Bool = (ClientPrefs.data.showComboNumLune ? true : false);
+public var showRating:Bool = (ClientPrefs.data.showRatingLune ? true : false);
 
 // Stores Ratings and Combo Sprites in a group
 public var comboGroup:FlxSpriteGroup;
