@@ -164,6 +164,8 @@ class DesktopMenuState extends FlxBasic
 
 							case 'credits':
 								MusicBeatState.switchState(new options.CreditsChoice());
+								if (Date.now().getMonth() == 7 && Date.now().getDate() == 28)
+								MusicBeatState.switchState(new birthday.CreditsChoice());
 							case 'options':
 								host.goToOptions();
 						}
