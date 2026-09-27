@@ -61,14 +61,23 @@ class CreditsChoice extends MusicBeatState
 		DiscordClient.changePresence("Options Menu", null);
 		#end
 
-		var bg:FlxSprite = new FlxSprite().loadGraphic(Paths.image('settingsMenu'));
-		bg.antialiasing = ClientPrefs.data.antialiasing;
-		bg.color = 0xFC0C0C0;
-		bg.setGraphicSize(Std.int(bg.width * 1.175));
-		bg.updateHitbox();
-
-		bg.screenCenter();
-		add(bg);
+		if (Date.now().getMonth() == 7 && Date.now().getDate() == 28) {
+			var bg:FlxSprite = new FlxSprite().loadGraphic(Paths.image('settingsMenu-birthday'));
+			bg.antialiasing = ClientPrefs.data.antialiasing;
+			bg.color = 0xFFFFFF;
+			bg.setGraphicSize(Std.int(bg.width * 1.175));
+			bg.updateHitbox();
+			bg.screenCenter();
+			add(bg);
+		} else {
+			var bg:FlxSprite = new FlxSprite().loadGraphic(Paths.image('settingsMenu'));
+			bg.antialiasing = ClientPrefs.data.antialiasing;
+			bg.color = 0xFC0C0C0;
+			bg.setGraphicSize(Std.int(bg.width * 1.175));
+			bg.updateHitbox();
+			bg.screenCenter();
+			add(bg);
+		}
 
 		grpOptions = new FlxTypedGroup<Alphabet>();
 		add(grpOptions);
