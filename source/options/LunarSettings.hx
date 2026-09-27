@@ -16,6 +16,18 @@ class LunarSettings extends BaseOptionsMenu
 			BOOL);
 		addOption(option);
 
+		var option:Option = new Option('Combo Number Here',
+			'If unchecked, Combo Numbers will disappear',
+			'showComboNumLune',
+			BOOL);
+		addOption(option);
+
+		var option:Option = new Option('Combo Rating Here',
+			'If unchecked, Combo Ratings (like Crazy, Cool, & Good) will disappear',
+			'showRatingLune',
+			BOOL);
+		addOption(option);
+
 		var option:Option = new Option('Debug Keys',
 			'If Disabled, you won\'t be able to go to the Chart or Character Editor in PlayState, & it disables pressing 7 
 			in the Main Menu',
