@@ -171,8 +171,6 @@ class PsychCredits extends MusicBeatState
 			{
 				FlxG.sound.play(Paths.sound('cancelMenu'));
 				MusicBeatState.switchState(new options.CreditsChoice());
-				if (Date.now().getMonth() == 7 && Date.now().getDate() == 28)
-				MusicBeatState.switchState(new birthday.CreditsChoice());
 				quitting = true;
 			}
 		}
