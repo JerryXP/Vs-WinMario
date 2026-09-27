@@ -198,38 +198,38 @@ class MainMenuState extends MusicBeatState
 		**/
 
 		if (Date.now().getMonth() == 0 && Date.now().getDate() == 1) { //Happy New Year!
-		var winVerSP:FlxText = new FlxText(0, FlxG.height - 32, FlxG.width, "Happy New Year!", 12);
+		var winVerSP:FlxText = new FlxText(0, FlxG.height - 54, FlxG.width, "Happy New Year!", 12);
 		winVerSP.setFormat(Paths.font("score.ttf"), 16, FlxColor.WHITE, RIGHT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		winVerSP.scrollFactor.set();
 		add(winVerSP);
 		} else if (Date.now().getMonth() == 1 && Date.now().getDate() == 14) { //Valentine's Day
-		var winVerSP:FlxText = new FlxText(0, FlxG.height - 32, FlxG.width, "Happy Valentine's Day!", 12);
+		var winVerSP:FlxText = new FlxText(0, FlxG.height - 54, FlxG.width, "Happy Valentine's Day!", 12);
 		winVerSP.setFormat(Paths.font("score.ttf"), 16, FlxColor.WHITE, RIGHT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		winVerSP.scrollFactor.set();
 		add(winVerSP);
 		} else if (Date.now().getMonth() == 2 && Date.now().getDate() == 17) { //Saint Patrick's Day
-		var winVerSP:FlxText = new FlxText(0, FlxG.height - 32, FlxG.width, "Happy St. Patrick's Day!", 12);
+		var winVerSP:FlxText = new FlxText(0, FlxG.height - 54, FlxG.width, "Happy St. Patrick's Day!", 12);
 		winVerSP.setFormat(Paths.font("score.ttf"), 16, FlxColor.WHITE, RIGHT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		winVerSP.scrollFactor.set();
 		add(winVerSP);
 		} else if (Date.now().getMonth() == 4 && Date.now().getDate() == 5) { //Cinco de Mayo
-		var winVerSP:FlxText = new FlxText(0, FlxG.height - 32, FlxG.width, "Happy Cinco de Mayo!", 12);
+		var winVerSP:FlxText = new FlxText(0, FlxG.height - 54, FlxG.width, "Happy Cinco de Mayo!", 12);
 		winVerSP.setFormat(Paths.font("score.ttf"), 16, FlxColor.WHITE, RIGHT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		winVerSP.scrollFactor.set();
 		add(winVerSP);
 		} else if (Date.now().getMonth() == 7 && Date.now().getDate() == 28) { //Happy Birthday to Me!!
-		var winVerSP:FlxText = new FlxText(0, FlxG.height - 32, FlxG.width, "Happy Birthday, WM/LXP!!", 12);
+		var winVerSP:FlxText = new FlxText(0, FlxG.height - 54, FlxG.width, "Happy Birthday, WM/LXP!!", 12);
 		winVerSP.setFormat(Paths.font("score.ttf"), 16, FlxColor.WHITE, RIGHT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		winVerSP.scrollFactor.set();
 		add(winVerSP);
 		}
 		else if (Date.now().getMonth() == 9 && Date.now().getDate() == 31) { //mario's tunnel of the doom. (Happy Halloween)
-		var winVerSP:FlxText = new FlxText(0, FlxG.height - 32, FlxG.width, "Happy Halloween!! (very scary)", 12);
+		var winVerSP:FlxText = new FlxText(0, FlxG.height - 54, FlxG.width, "Happy Halloween!! (very scary)", 12);
 		winVerSP.setFormat(Paths.font("score.ttf"), 16, FlxColor.WHITE, RIGHT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		winVerSP.scrollFactor.set();
 		add(winVerSP);
 		} else if (Date.now().getMonth() == 11 && Date.now().getDate() == 25) { //We love Christmas
-		var winVerSP:FlxText = new FlxText(0, FlxG.height - 32, FlxG.width, "Merry Christmas!!", 12);
+		var winVerSP:FlxText = new FlxText(0, FlxG.height - 54, FlxG.width, "Merry Christmas!!", 12);
 		winVerSP.setFormat(Paths.font("score.ttf"), 16, FlxColor.WHITE, RIGHT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		winVerSP.scrollFactor.set();
 		add(winVerSP);
@@ -238,8 +238,13 @@ class MainMenuState extends MusicBeatState
 
 		#if ACHIEVEMENTS_ALLOWED
 		var leDate = Date.now();
-		if (leDate.getMonth() == 7 && leDate.getDate() == 28)
+		if (leDate.getMonth() == 7 && leDate.getDate() == 28) {
 			backend.Achievements.unlock('birthday');
+		}
+
+		if (leDate.getDay() == 5 && leDate.getHours() >= 18) {
+			backend.Achievements.unlock('friday_night_play');
+		}
 
 		#if MODS_ALLOWED
 		backend.Achievements.reloadList();
