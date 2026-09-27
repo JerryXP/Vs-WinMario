@@ -100,6 +100,7 @@ import states.InitState;
 	public var playSongOST:Bool = false;
 	#end
 	public var checkForUpdates:Bool = true;
+	public var debugkeysLunar:Bool = true;
 	public var comboStacking:Bool = true;
 	public var gameplaySettings:Map<String, Dynamic> = [
 		'scrollspeed' => 1.0,
@@ -120,8 +121,7 @@ import states.InitState;
 		'instakill' => false,
 		'practice' => false,
 		'botplay' => false,
-		'opponentplay' => false,
-		'debug' => true
+		'opponentplay' => false
 	];
 	public var comboOffset:Array<Int> = [0, 0, 0, 0, 0];
 	public var ratingOffset:Int = 0;
