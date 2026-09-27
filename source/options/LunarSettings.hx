@@ -92,7 +92,7 @@ class LunarSettings extends BaseOptionsMenu
 		    'No, not Custom HUD. Custom Score Text Info.',
 			'winmarioCustomscore',
 			STRING,
-			['WinMario', 'WinMario (Legacy)', 'Mic\'d Up', 'Codename', 'Yoshi', 'Psych', 'Kade', 'Vanilla', 'Forever', 'OS']);
+			['WinMario', 'WinMario (Legacy)', 'Pico Engine', 'Green Engine', 'Psych Plus', 'Mic\'d Up', 'Codename', 'Yoshi', 'Psych', 'Kade', 'Vanilla', 'Forever', 'OS']);
 		addOption(option);
 
 		 var option:Option = new Option('Judgement Counter',
