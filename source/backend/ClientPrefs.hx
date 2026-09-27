@@ -101,6 +101,10 @@ import states.InitState;
 	#end
 	public var checkForUpdates:Bool = true;
 	public var debugkeysLunar:Bool = true;
+	
+	public var showComboNumLune:Bool = true;
+	public var showRatingLune:Bool = true;
+
 	public var comboStacking:Bool = true;
 	public var gameplaySettings:Map<String, Dynamic> = [
 		'scrollspeed' => 1.0,
