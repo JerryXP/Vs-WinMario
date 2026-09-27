@@ -16,6 +16,13 @@ class LunarSettings extends BaseOptionsMenu
 			BOOL);
 		addOption(option);
 
+		var option:Option = new Option('Debug Keys',
+			'If Disabled, you won\'t be able to go to the Chart or Character Editor in PlayState, & it disables pressing 7 
+			in the Main Menu',
+			'debugkeysLunar',
+			BOOL);
+		addOption(option);
+
 		var option:Option = new Option('Show Key Viewer',
 			'If checked, shows a key viewer displaying which keys are being pressed.',
 			'showKeyViewer',
