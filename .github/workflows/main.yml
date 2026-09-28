@@ -6,7 +6,6 @@ on:
   workflow_dispatch:
 jobs:
   
-      setupScript: sh ./setup/mobile.sh
   BuildDesktopCache:
     name: Build Caches
     permissions: write-all
