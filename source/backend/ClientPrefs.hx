@@ -138,13 +138,6 @@ import states.InitState;
 	public var discordRPC:Bool = true;
 	public var loadingScreen:Bool = true;
 	public var language:String = 'en-US';
-
-	// Compatibility Settings (PsychPlus Thing)
-	public var useSScriptCompat:Bool = false; // Use SScript instead of hscript-iris for Psych 0.7.3 mods compatibility
-	public var legacyMemoryManagement:Bool = false; // Use Psych 0.7.3 memory management style (no GPU disposal)
-	public var legacyFileSystemAccess:Bool = false; // Allow direct FileSystem.readDirectory access like in Psych 0.7.3
-	public var useLegacyFont:Bool = true; // Use legacy VCR font instead of Phantom font
-	public var legacyShaderInit:Bool = false; // Use Psych 0.7.3 shader initialization (glslVersion parameter, direct FlxRuntimeShader)
 }
 
 class ClientPrefs {
