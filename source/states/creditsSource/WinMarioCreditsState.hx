@@ -84,7 +84,7 @@ class WinMarioCreditsState extends MusicBeatState
 			["Hope Engine",		"missing_icon",			"Note Splashes (hope engine ver)\nThere is a Download link but the mod is private :(",		"",	"808080"],
 			["Leather Engine",		"missing_icon",			"Note Splashes (leather engine ver)",		"https://gamebanana.com/mods/334945",	"808080"],
 			["Super Funkin' Galaxy",		"missing_icon",			"Use their Soundbox Sounds & Assets",		"https://gamebanana.com/mods/444759",	"000080"],
-			["Rozebud",		"missing_icon",			"FPS+ Winning Icons",		"https://gamebanana.com/members/1767623",	"808080"],
+			["Rozebud",		"missing_icon",			"FPS+ Winning Icons\nFPS+ Title Screen Reference",		"https://gamebanana.com/members/1767623",	"808080"],
 			["canUbeU",		"missing_icon",			"Pixel Pico, Senpai, & Spirit Winning Icons",		"https://gamebanana.com/members/1767623",	"808080"],
 			["B-Sides",		"missing_icon",			"Character Select (game over), Crazy & Cool Pixel Sprite (edit by me)",		"https://gamebanana.com/mods/42724",	"808080"],
 			["YinaNoka",		"missing_icon",			"Ok Pixel Sprite (edit by me)",		"https://gamebanana.com/members/1942955",	"808080"],
