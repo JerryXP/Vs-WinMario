@@ -9,7 +9,7 @@ class OutdatedState extends WarningState
 		final bro:String = #if windows 'twin' #elseif mac 'bro' #elseif linux 'dude' #elseif android 'kiddo' #elseif ios 'friend' #else 'Anonymous' #end;
 		final escape:String = (controls.mobileC) ? '(B)' : '[ESCAPE]';
 
-		var guh = "Hey "+bro+", Unfounetely, you are using a\n
+		var guh = "Hey "+bro+", Unfortunately, you are using a\n
 			Outdated Version of Lunar Engine, which is (" + MainMenuState.lunarVersion + ")
 			\n Meanwhile, the Current Version is (" + newVersion + ")\n
 			Please Update the Version!!!\n

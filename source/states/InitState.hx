@@ -125,7 +125,7 @@ class InitState extends MusicBeatState
 		if (ClientPrefs.data.checkForUpdates)
 		{
 			trace('checking for update');
-			var http = new haxe.Http("https://raw.githubusercontent.com/JerryXP/WinMario-Version-Checker/main/engineVer.txt");
+			var http = new haxe.Http("https://raw.githubusercontent.com/JerryXP/Vs-WinMario/tree/engine-dev/gitVersion.txt");
 
 			http.onData = function(data:String)
 			{

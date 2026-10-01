@@ -100,6 +100,11 @@ import states.InitState;
 	public var playSongOST:Bool = false;
 	#end
 	public var checkForUpdates:Bool = true;
+	public var debugkeysLunar:Bool = true;
+	
+	public var showComboNumLune:Bool = true;
+	public var showRatingLune:Bool = true;
+
 	public var comboStacking:Bool = true;
 	public var gameplaySettings:Map<String, Dynamic> = [
 		'scrollspeed' => 1.0,
@@ -120,8 +125,7 @@ import states.InitState;
 		'instakill' => false,
 		'practice' => false,
 		'botplay' => false,
-		'opponentplay' => false,
-		'debug' => true
+		'opponentplay' => false
 	];
 	public var comboOffset:Array<Int> = [0, 0, 0, 0, 0];
 	public var ratingOffset:Int = 0;
@@ -134,13 +138,6 @@ import states.InitState;
 	public var discordRPC:Bool = true;
 	public var loadingScreen:Bool = true;
 	public var language:String = 'en-US';
-
-	// Compatibility Settings (PsychPlus Thing)
-	public var useSScriptCompat:Bool = false; // Use SScript instead of hscript-iris for Psych 0.7.3 mods compatibility
-	public var legacyMemoryManagement:Bool = false; // Use Psych 0.7.3 memory management style (no GPU disposal)
-	public var legacyFileSystemAccess:Bool = false; // Allow direct FileSystem.readDirectory access like in Psych 0.7.3
-	public var useLegacyFont:Bool = true; // Use legacy VCR font instead of Phantom font
-	public var legacyShaderInit:Bool = false; // Use Psych 0.7.3 shader initialization (glslVersion parameter, direct FlxRuntimeShader)
 }
 
 class ClientPrefs {

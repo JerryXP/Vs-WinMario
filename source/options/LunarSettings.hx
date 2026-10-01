@@ -16,6 +16,25 @@ class LunarSettings extends BaseOptionsMenu
 			BOOL);
 		addOption(option);
 
+		var option:Option = new Option('Combo Number Here',
+			'If unchecked, Combo Numbers will disappear',
+			'showComboNumLune',
+			BOOL);
+		addOption(option);
+
+		var option:Option = new Option('Combo Rating Here',
+			'If unchecked, Combo Ratings (like Crazy, Cool, & Good) will disappear',
+			'showRatingLune',
+			BOOL);
+		addOption(option);
+
+		var option:Option = new Option('Debug Keys',
+			'If Disabled, you won\'t be able to go to the Chart or Character Editor in PlayState, & it disables pressing 7 
+			in the Main Menu',
+			'debugkeysLunar',
+			BOOL);
+		addOption(option);
+
 		var option:Option = new Option('Show Key Viewer',
 			'If checked, shows a key viewer displaying which keys are being pressed.',
 			'showKeyViewer',
@@ -73,7 +92,7 @@ class LunarSettings extends BaseOptionsMenu
 		    'No, not Custom HUD. Custom Score Text Info.',
 			'winmarioCustomscore',
 			STRING,
-			['WinMario', 'WinMario (Legacy)', 'Mic\'d Up', 'Codename', 'Yoshi', 'Psych', 'Kade', 'Vanilla', 'Forever', 'OS']);
+			['WinMario', 'WinMario (Legacy)', 'Pico Engine', 'Green Engine', 'Psych Plus', 'Mic\'d Up', 'Codename', 'Yoshi', 'Psych', 'Kade', 'Vanilla', 'Forever', 'OS']);
 		addOption(option);
 
 		 var option:Option = new Option('Judgement Counter',

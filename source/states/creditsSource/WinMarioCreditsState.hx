@@ -53,6 +53,10 @@ class WinMarioCreditsState extends MusicBeatState
 			["vCherry.kAI.16",		 "missing_icon",	   "Combo break = gf cry",	 "https://gamebanana.com/members/1921624",							"808080"],
 			["SadSami",		 "missing_icon",	   "Break Time/Note Timer Script",	 			"https://gamebanana.com/members/3418239",				"808080"],
 			["MC07",		 "missing_icon",	   "Psych Engine 1.0 Skin Selector\nBeta BF Winning Icon",	 			"https://www.youtube.com/@MC0777",					"808080"],
+			["Super_Hugo",	 "missing_icon",		 "Blammed Lights & Philly Glow Recreation",		"https://gamebanana.com/members/2151945",			"808080"],
+			["BlixerTheGamebananer",	"missing_icon",	 "Combo Break Sound Script",			"https://gamebanana.com/members/2179280",			"FF0000"],
+			["RamenDominoes",		        "missing_icon",		        "Cinematics",					  "https://gamebanana.com/members/2135195",		"808080"],
+			["Ghost1787581",		        "missing_icon",		        "Note Offset Pop-up",					  "https://gamebanana.com/members/1787581",		"808080"],
 			[""],
 			["Shaders"],
 			["TheZoroForce240",		        "missing_icon",		        "RTX Shader",					  "https://gamebanana.com/members/1708748",		"808080"],
@@ -79,9 +83,9 @@ class WinMarioCreditsState extends MusicBeatState
 			["Forever Engine",		"missing_icon",			"Note Splashes (forever engine ver)",		"https://gamejolt.com/games/fnfforeverengine/692242",	"808080"],
 			["YoshCrafter Engine",		"missing_icon",			"Note Splashes (yoshi engine ver)",		"https://gamebanana.com/mods/352532",	"808080"],
 			["Hope Engine",		"missing_icon",			"Note Splashes (hope engine ver)\nThere is a Download link but the mod is private :(",		"",	"808080"],
-			["Leather Engine",		"missing_icon",			"Note Splashes (hope engine ver)",		"https://gamebanana.com/mods/334945",	"808080"],
+			["Leather Engine",		"missing_icon",			"Note Splashes (leather engine ver)",		"https://gamebanana.com/mods/334945",	"808080"],
 			["Super Funkin' Galaxy",		"missing_icon",			"Use their Soundbox Sounds & Assets",		"https://gamebanana.com/mods/444759",	"000080"],
-			["Rozebud",		"missing_icon",			"FPS+ Winning Icons",		"https://gamebanana.com/members/1767623",	"808080"],
+			["Rozebud",		"missing_icon",			"FPS+ Winning Icons\nFPS+ Title Screen Reference",		"https://gamebanana.com/members/1767623",	"808080"],
 			["canUbeU",		"missing_icon",			"Pixel Pico, Senpai, & Spirit Winning Icons",		"https://gamebanana.com/members/1767623",	"808080"],
 			["B-Sides",		"missing_icon",			"Character Select (game over), Crazy & Cool Pixel Sprite (edit by me)",		"https://gamebanana.com/mods/42724",	"808080"],
 			["YinaNoka",		"missing_icon",			"Ok Pixel Sprite (edit by me)",		"https://gamebanana.com/members/1942955",	"808080"],
@@ -90,12 +94,14 @@ class WinMarioCreditsState extends MusicBeatState
 			["Punkinator7",	"missing_icon",	 "Special Note Mechanics Pack (edit by me)",			"https://gamebanana.com/members/1687904",			"808080"],
 			["Ciphernetics",	"missing_icon",	 "Danger Note (edit by me)",			"https://gamebanana.com/members/1866642",			"808080"],
 			["DylanTails876",		        "missing_icon",		  "Character Select BF Speaker",			"https://gamebanana.com/members/1920694",		"808080"],
+			["This is fine",		        "missing_icon",		        "Made Erect BF (use to replace boring GF that y'all like to lust)",				"https://gamebanana.com/members/1800297",	"808080"],
 			[""],
 			["Other/Misc"],
 			["Nintendo",	"missing_icon",	 "Mario Sounds and Music. (mostly Galaxy)",			"https://x.com/NintendoAmerica",			"FF0000"],
 			["Sega",	"missing_icon",	 			"Combo Break Custom Sounds & Music",							"https://x.com/SEGA",											"0000FF"],
 			["Microslop",	"missing_icon",	 			"Custom Menu Select Sounds\n(fuck ai slop bitch.)",							"https://x.com/Microsoft",									"00FF00"],
 			["The Mockupverse Wiki",	"missing_icon",	 			"Windows Zinc, 14 (old), 16, & 18\nStart-up for Several intros I used.",		"https://mockupverse.fandom.com/wiki/The_Mockupverse_Wiki",		"00FF00"],
+			["Newer Team",	"missing_icon",	 "Newer SMBWii Music",			"https://newerteam.com",			"FF0000"],
 			[""],
 			["Code"],
 			["MrpoloOfficial",		        "missing_icon",		        "Intro & Outro Video States (edit by me)",			"https://gamebanana.com/members/2307558",	"808080"],
@@ -219,8 +225,6 @@ class WinMarioCreditsState extends MusicBeatState
 			{
 				FlxG.sound.play(Paths.sound('cancelMenu'));
 				MusicBeatState.switchState(new options.CreditsChoice());
-				if (Date.now().getMonth() == 7 && Date.now().getDate() == 28)
-				MusicBeatState.switchState(new birthday.CreditsChoice());
 				quitting = true;
 			}
 		}

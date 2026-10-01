@@ -19,7 +19,7 @@ class MasterEditorMenu extends MusicBeatState
 		'Character Editor', 
 		'Stage Editor', 
 		#if desktop
-		'Converters',
+		// 'Converters', - It will be on hold until V1.2's release.
 		#end
 		'Week Editor', 
 		'Test stickers', 

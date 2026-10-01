@@ -166,8 +166,6 @@ class DesktopMenuState extends FlxBasic
 
 							case 'credits':
 								MusicBeatState.switchState(new options.CreditsChoice());
-								if (Date.now().getMonth() == 7 && Date.now().getDate() == 28)
-								MusicBeatState.switchState(new birthday.CreditsChoice());
 							case 'options':
 								host.goToOptions();
 						}
@@ -187,13 +185,14 @@ class DesktopMenuState extends FlxBasic
 					}
 				}
 			}
-			if (#if LEGACY_PSYCH FlxG.keys.anyJustPressed(ClientPrefs.keyBinds.get('debug_1')
-				.filter(s -> s != -1)) #else host.controls.justPressed('debug_1') #end)
-			{
-				selectedSomethin = true;
-				FlxTransitionableState.skipNextTransIn = false;
-				FlxTransitionableState.skipNextTransOut = false;
-				MusicBeatState.switchState(new options.OptionsStateCheat());
+			if (ClientPrefs.data.debugkeysLunar) {
+				if (host.controls.justPressed('debug_1'))
+				{
+					selectedSomethin = true;
+					FlxTransitionableState.skipNextTransIn = false;
+					FlxTransitionableState.skipNextTransOut = false;
+					MusicBeatState.switchState(new options.OptionsStateCheat());
+				}
 			}
 		}
 

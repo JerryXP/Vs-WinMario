@@ -33,6 +33,7 @@ class Achievements {
 	public static function init()
 	{
 		createAchievement('birthday',					{name: "Happy Birthday, WM/LXP!", description: "Play this Mod on August 28", hidden: true});
+		createAchievement('friday_night_play',		{name: "Just like the game!", description: "Play on a Friday... Night.", hidden: true});
 		#if BASE_GAME_FILES
 		createAchievement('week1_nomiss',			{name: "More Like Daddy Queerest", description: "Beat Week 1 on Hard with no Misses."});
 		createAchievement('week2_nomiss',			{name: "IT IS THE SPOOKY MONTH", description: "Beat Week 2 on Hard with no Misses."});
