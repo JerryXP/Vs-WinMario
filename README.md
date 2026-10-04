@@ -72,7 +72,7 @@ Your Computer needs to be 64-Bit<br>
 (MacOS Only) MacOS 14 Sonoma Is minimum to run my Engine<br>
 
 ### -☆- If your on Mac & trying to compile the game, then please listen. -☆-
-So you're trying to compile my Engine but it failed, then it's possibly because you extract my Code by using Double left click. Which is wherer it can exclude the files. So... to also include the folders that have been exclude, open terminal and type (unzip "") place the zipped or tar.gz folder inside the terminal, and it will extract it.<br>
+So you're trying to compile my Engine but it failed, then it's possibly because you extract my Code by using Double left click. Which is where it can exclude the files. So... to also include the folders that have been exclude, open terminal and type (unzip "") place the zipped or tar.gz folder inside the terminal, and it will extract it.<br>
 
 ### -☆- Setup -☆-
 1. Install [Haxe](https://haxe.org) 4.3.6 or 4.3.7<br>
