@@ -49,7 +49,6 @@ class WinMarioCreditsState extends MusicBeatState
 			["Stilic",		        "missing_icon",		        "Note Combo",					  "https://gamebanana.com/members/1893262",				"808080"],
 			["Rodney~ An Imaginative Furball",		    "missing_icon",		  "Stage Changer",	"https://gamebanana.com/members/1729833",				"808080"],
 			["Blu Day Studios",		        "missing_icon",		 "Note Offset Pop-up (edit by me)",		"https://gamebanana.com/members/1787581",		"808080"],
-			["Sebbat",		 "missing_icon",	   "Lua WaterMark",	 		"https://gamebanana.com/members/1995181",									"808080"],
 			["vCherry.kAI.16",		 "missing_icon",	   "Combo break = gf cry",	 "https://gamebanana.com/members/1921624",							"808080"],
 			["SadSami",		 "missing_icon",	   "Break Time/Note Timer Script",	 			"https://gamebanana.com/members/3418239",				"808080"],
 			["MC07",		 "missing_icon",	   "Psych Engine 1.0 Skin Selector\nBeta BF Winning Icon",	 			"https://www.youtube.com/@MC0777",					"808080"],
